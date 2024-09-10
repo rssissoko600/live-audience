@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import PageComponent from './PageComponent';
+import SceneRendererComponent from './SceneRendererComponent';
+import Dictaphone from './SpeechRecognitionComponent';
 
 function App() {
   return (
@@ -30,7 +31,12 @@ function App() {
           found here.
         </a>
         </p>
-        <PageComponent />
+        <SceneRendererComponent />
+
+        <p>
+          Speech Recognition Test
+        </p>
+        <Dictaphone />
       </header>
     </div>
   );
