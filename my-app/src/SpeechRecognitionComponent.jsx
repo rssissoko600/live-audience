@@ -13,14 +13,27 @@ const Dictaphone = (props) => {
     return <span>Browser doesn't support speech recognition.</span>;
   }
 
+  const dictoryCheck = () => {
+    
+    if(transcript.match("Start")) {
+      props.newRPM(1000);
+    }
+
+    if(transcript.match("Stop")) {
+      props.newRPM(10);
+    }
+  }
+
   return (
     <div>
       <p>Microphone: {listening ? 'on' : 'off'}</p>
-      <button onClick={ () => {SpeechRecognition.startListening(); props.newRPM(1000);} }>Start</button>
-      <button onClick={ () => {SpeechRecognition.startListening(); props.newRPM(10);} }>Stop</button>
+      <button onClick={SpeechRecognition.startListening}>Start</button>
+      <button onClick={SpeechRecognition.stopListening}>Stop</button>
       <button onClick={resetTranscript}>Reset</button>
       <p>{transcript}</p>
+      {dictoryCheck()}
     </div>
   );
 };
+
 export default Dictaphone;
