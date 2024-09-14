@@ -2,44 +2,38 @@ import logo from './logo.svg';
 import './App.css';
 import SceneRendererComponent from './SceneRendererComponent';
 import Dictaphone from './SpeechRecognitionComponent';
+import React, { Component } from 'react';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          This project was created using the create-react-app kickstart   
-          <a
-          className="App-link"
-          href="https://create-react-app.dev/docs/getting-started"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          found here.
-        </a>
-        </p>
 
-        <p>
-          Further, Babylon.js was loaded in a component below using the guide 
-          <a
-          className="App-link"
-          href="https://doc.babylonjs.com/communityExtensions/Babylon.js+ExternalLibraries/BabylonJS_and_ReactJS"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          found here.
-        </a>
-        </p>
-        <SceneRendererComponent />
+class App extends Component {
 
-        <p>
-          Speech Recognition Test
-        </p>
-        <Dictaphone />
-      </header>
-    </div>
-  );
+  constructor(props) {
+    super(props);
+    this.state = { rpm: 10 };
+  }
+
+  newRPM = (newRPM) => {
+    this.setState({rpm: newRPM});
+  }
+  
+  render() {
+    return (
+      <div className="App">
+        <header className="App-header">
+          
+          <img src={logo} className="App-logo" alt="logo" />
+
+          <p>Speech Recognition Test</p>
+          <p>RPM: {this.state.rpm}</p>
+          
+          <Dictaphone newRPM={this.newRPM}/>
+
+          <SceneRendererComponent data={this.state.rpm}/>
+
+        </header>
+      </div>
+    );
+  }
 }
 
 export default App;

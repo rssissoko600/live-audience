@@ -5,6 +5,7 @@ import SceneComponent from "./SceneComponent"; // uses above component in same d
 import "./App.css";
 
 let box;
+let rpm;
 
 const onSceneReady = (scene) => {
   // This creates and positions a free camera (non-mesh)
@@ -40,13 +41,13 @@ const onSceneReady = (scene) => {
 const onRender = (scene) => {
   if (box !== undefined) {
     const deltaTimeInMillis = scene.getEngine().getDeltaTime();
-
-    const rpm = 10;
+    
     box.rotation.y += (rpm / 60) * Math.PI * 2 * (deltaTimeInMillis / 1000);
   }
 };
 
-export default () => (
+export default (props) => (
+  rpm = props.data,
   <div>
     <SceneComponent antialias onSceneReady={onSceneReady} onRender={onRender} id="my-canvas" />
   </div>

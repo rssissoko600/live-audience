@@ -1,7 +1,7 @@
 import React from 'react';
 import SpeechRecognition, { useSpeechRecognition } from 'react-speech-recognition';
 
-const Dictaphone = () => {
+const Dictaphone = (props) => {
   const {
     transcript,
     listening,
@@ -16,8 +16,8 @@ const Dictaphone = () => {
   return (
     <div>
       <p>Microphone: {listening ? 'on' : 'off'}</p>
-      <button onClick={SpeechRecognition.startListening}>Start</button>
-      <button onClick={SpeechRecognition.stopListening}>Stop</button>
+      <button onClick={ () => {SpeechRecognition.startListening(); props.newRPM(1000);} }>Start</button>
+      <button onClick={ () => {SpeechRecognition.startListening(); props.newRPM(10);} }>Stop</button>
       <button onClick={resetTranscript}>Reset</button>
       <p>{transcript}</p>
     </div>
