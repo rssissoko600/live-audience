@@ -1,0 +1,3500 @@
+-------------------
+Folder Name: Buildings
+-------------------
+Prefab Name: SM_Bld_Chimney_01
+    Mesh Name: SM_Bld_Chimney_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_Chimney_02
+    Mesh Name: SM_Bld_Chimney_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_Church_01
+    Mesh Name: SM_Bld_Church_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_Church_Door_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_Church_Door_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_Church_Glass_01
+        Slot: Window_Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_GardenShed_01
+    Mesh Name: SM_Bld_GardenShed_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_GardenShed_Door_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Concrete_Steps_01
+    Mesh Name: SM_Bld_House_Concrete_Steps_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_DeckSteps_01
+    Mesh Name: SM_Bld_House_DeckSteps_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Deck_01
+    Mesh Name: SM_Bld_House_Deck_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Deck_02
+    Mesh Name: SM_Bld_House_Deck_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Deck_03
+    Mesh Name: SM_Bld_House_Deck_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Deck_05
+    Mesh Name: SM_Bld_House_Deck_05
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Deck_End_01
+    Mesh Name: SM_Bld_House_Deck_End_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Deck_Post_01
+    Mesh Name: SM_Bld_House_Deck_Post_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Deck_Rail_01
+    Mesh Name: SM_Bld_House_Deck_Rail_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Deck_Rail_End_01
+    Mesh Name: SM_Bld_House_Deck_Rail_End_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Deck_Roof_01
+    Mesh Name: SM_Bld_House_Deck_Roof_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Deck_Roof_02
+    Mesh Name: SM_Bld_House_Deck_Roof_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Deck_Roof_03
+    Mesh Name: SM_Bld_House_Deck_Roof_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Deck_Roof_End_01
+    Mesh Name: SM_Bld_House_Deck_Roof_End_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Deck_Roof_InnerCorner_01
+    Mesh Name: SM_Bld_House_Deck_Roof_InnerCorner_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Deck_Roof_InnerCorner_02
+    Mesh Name: SM_Bld_House_Deck_Roof_InnerCorner_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Deck_Roof_InnerCorner_03
+    Mesh Name: SM_Bld_House_Deck_Roof_InnerCorner_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Door_01
+    Mesh Name: SM_Bld_House_Door_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_House_Door
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Door_02
+    Mesh Name: SM_Bld_House_Door_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_House_Door
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Door_03
+    Mesh Name: SM_Bld_House_Door_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_House_Door
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_DrainPipe_01
+    Mesh Name: SM_Bld_House_DrainPipe_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_DrainPipe_02
+    Mesh Name: SM_Bld_House_DrainPipe_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_ExteriorWall_GarageDoor_01
+    Mesh Name: SM_Bld_House_ExteriorWall_GarageDoor_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_House_Wall_GarageDoor_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_ExteriorWall_GarageDoor_02
+    Mesh Name: SM_Bld_House_ExteriorWall_GarageDoor_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_House_Door
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_ExteriorWall_GroundFloor_01
+    Mesh Name: SM_Bld_House_ExteriorWall_GroundFloor_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_ExteriorWall_GroundFloor_02
+    Mesh Name: SM_Bld_House_ExteriorWall_GroundFloor_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_ExteriorWall_GroundFloor_03
+    Mesh Name: SM_Bld_House_ExteriorWall_GroundFloor_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_ExteriorWall_GroundFloor_Corner_01
+    Mesh Name: SM_Bld_House_ExteriorWall_GroundFloor_Corner_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_ExteriorWall_GroundFloor_Door_01
+    Mesh Name: SM_Bld_House_ExteriorWall_GroundFloor_Door_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_ExteriorWall_GroundFloor_Door_02
+    Mesh Name: SM_Bld_House_ExteriorWall_GroundFloor_Door_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_ExteriorWall_GroundFloor_Door_03
+    Mesh Name: SM_Bld_House_ExteriorWall_GroundFloor_Door_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_ExteriorWall_GroundFloor_Garage_01
+    Mesh Name: SM_Bld_House_ExteriorWall_GroundFloor_Garage_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_ExteriorWall_GroundFloor_Garage_Window_01
+    Mesh Name: SM_Bld_House_ExteriorWall_GroundFloor_Garage_Window_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_House_ExteriorWall_GroundFloor_Garage_Window_Glass
+        Slot: Window_Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_House_ExteriorWall_GroundFloor_Window_01
+    Mesh Name: SM_Bld_House_ExteriorWall_GroundFloor_Window_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_ExteriorWall_GroundFloor_Window_02
+    Mesh Name: SM_Bld_House_ExteriorWall_GroundFloor_Window_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_ExteriorWall_GroundFloor_Window_03
+    Mesh Name: SM_Bld_House_ExteriorWall_GroundFloor_Window_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_ExteriorWall_UpperFloor_01
+    Mesh Name: SM_Bld_House_ExteriorWall_UpperFloor_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_ExteriorWall_UpperFloor_02
+    Mesh Name: SM_Bld_House_ExteriorWall_UpperFloor_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_ExteriorWall_UpperFloor_03
+    Mesh Name: SM_Bld_House_ExteriorWall_UpperFloor_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_ExteriorWall_UpperFloor_04
+    Mesh Name: SM_Bld_House_ExteriorWall_UpperFloor_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_ExteriorWall_UpperFloor_Corner_01
+    Mesh Name: SM_Bld_House_ExteriorWall_UpperFloor_Corner_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_ExteriorWall_UpperFloor_Corner_02
+    Mesh Name: SM_Bld_House_ExteriorWall_UpperFloor_Corner_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_ExteriorWall_UpperFloor_Window_01
+    Mesh Name: SM_Bld_House_ExteriorWall_UpperFloor_Window_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_ExteriorWall_UpperFloor_Window_02
+    Mesh Name: SM_Bld_House_ExteriorWall_UpperFloor_Window_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_ExteriorWall_UpperFloor_Window_03
+    Mesh Name: SM_Bld_House_ExteriorWall_UpperFloor_Window_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_InteriorWall_01
+    Mesh Name: SM_Bld_House_InteriorWall_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_InteriorWall_02
+    Mesh Name: SM_Bld_House_InteriorWall_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_InteriorWall_03
+    Mesh Name: SM_Bld_House_InteriorWall_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_InteriorWall_Cap_01
+    Mesh Name: SM_Bld_House_InteriorWall_Cap_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_InteriorWall_Corner_01
+    Mesh Name: SM_Bld_House_InteriorWall_Corner_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_InteriorWall_Door_01
+    Mesh Name: SM_Bld_House_InteriorWall_Door_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_House_InteriorWall_Door_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_InteriorWall_UpperFloorFiller_01
+    Mesh Name: SM_Bld_House_InteriorWall_UpperFloorFiller_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Interior_Ceiling_01
+    Mesh Name: SM_Bld_House_Interior_Ceiling_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Interior_Floor_01
+    Mesh Name: SM_Bld_House_Interior_Floor_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Interior_GarageCeiling_01
+    Mesh Name: SM_Bld_House_Interior_GarageCeiling_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Interior_Rail_01
+    Mesh Name: SM_Bld_House_Interior_Rail_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Interior_Rail_02
+    Mesh Name: SM_Bld_House_Interior_Rail_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Interior_StairsRail_02
+    Mesh Name: SM_Bld_House_Interior_StairsRail_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Interior_StairsRail_03
+    Mesh Name: SM_Bld_House_Interior_StairsRail_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Interior_StairsRail_Left_01
+    Mesh Name: SM_Bld_House_Interior_StairsRail_Left_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Interior_StairsRail_Post_01
+    Mesh Name: SM_Bld_House_Interior_StairsRail_Post_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Interior_StairsRail_Right_01
+    Mesh Name: SM_Bld_House_Interior_StairsRail_Right_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Interior_StairsRail_Right_01_Alt
+    Mesh Name: SM_Bld_House_Interior_StairsRail_Right_01_Alt
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Interior_StairsSide_02
+    Mesh Name: SM_Bld_House_Interior_StairsSide_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Interior_StairsSide_Left_01
+    Mesh Name: SM_Bld_House_Interior_StairsSide_Left_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Interior_StairsSide_Right_01
+    Mesh Name: SM_Bld_House_Interior_StairsSide_Right_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Interior_StairsWall_02
+    Mesh Name: SM_Bld_House_Interior_StairsWall_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Interior_StairsWall_Left_01
+    Mesh Name: SM_Bld_House_Interior_StairsWall_Left_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Interior_StairsWall_Right_01
+    Mesh Name: SM_Bld_House_Interior_StairsWall_Right_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Interior_Stairs_01
+    Mesh Name: SM_Bld_House_Interior_Stairs_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Interior_Stairs_02
+    Mesh Name: SM_Bld_House_Interior_Stairs_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Interior_Stairs_03
+    Mesh Name: SM_Bld_House_Interior_Stairs_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Interior_Stairs_Ceiling_01
+    Mesh Name: SM_Bld_House_Interior_Stairs_Ceiling_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Interior_Stairs_WallGap_01
+    Mesh Name: SM_Bld_House_Interior_Stairs_WallGap_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Interior_Stairs_WallGap_02
+    Mesh Name: SM_Bld_House_Interior_Stairs_WallGap_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_InternalWall_Garage_01
+    Mesh Name: SM_Bld_House_InternalWall_Garage_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_InternalWall_Garage_Door_01
+    Mesh Name: SM_Bld_House_InternalWall_Garage_Door_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_House_InternalWall_Garage_Door_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_InternalWall_SingleGap_01
+    Mesh Name: SM_Bld_House_InternalWall_SingleGap_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_RanchSlider_01
+    Mesh Name: SM_Bld_House_RanchSlider_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_House_RanchSlider_Door
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_House_RanchSlider_Door_Glass
+        Slot: Window_Glass (No Albedo Texture)
+    Mesh Name: SM_Bld_House_RanchSlider_Glass
+        Slot: Window_Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_House_Roof_Angled_Cap_01
+    Mesh Name: SM_Bld_House_Roof_Angled_Cap_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Roof_Angled_Cap_02
+    Mesh Name: SM_Bld_House_Roof_Angled_Cap_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Roof_Angled_Cap_Corner_01
+    Mesh Name: SM_Bld_House_Roof_Angled_Cap_Corner_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Roof_Angled_Cap_Corner_Short_01
+    Mesh Name: SM_Bld_House_Roof_Angled_Cap_Corner_Short_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Roof_Angled_Cap_Short_01
+    Mesh Name: SM_Bld_House_Roof_Angled_Cap_Short_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Roof_Angled_Cap_Short_02
+    Mesh Name: SM_Bld_House_Roof_Angled_Cap_Short_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Roof_Angled_Corner_01
+    Mesh Name: SM_Bld_House_Roof_Angled_Corner_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Roof_Angled_Corner_Middle_02
+    Mesh Name: SM_Bld_House_Roof_Angled_Corner_Middle_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Roof_Angled_Gutter_01
+    Mesh Name: SM_Bld_House_Roof_Angled_Gutter_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Roof_Angled_Gutter_02
+    Mesh Name: SM_Bld_House_Roof_Angled_Gutter_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Roof_Angled_Gutter_03
+    Mesh Name: SM_Bld_House_Roof_Angled_Gutter_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Roof_Angled_Middle_01
+    Mesh Name: SM_Bld_House_Roof_Angled_Middle_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Roof_EndCap_01
+    Mesh Name: SM_Bld_House_Roof_EndCap_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Roof_EndCap_TopLong_01
+    Mesh Name: SM_Bld_House_Roof_EndCap_TopLong_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Roof_EndCap_TopShort_01
+    Mesh Name: SM_Bld_House_Roof_EndCap_TopShort_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Roof_End_01
+    Mesh Name: SM_Bld_House_Roof_End_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Roof_End_03
+    Mesh Name: SM_Bld_House_Roof_End_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Roof_FlatLip_01
+    Mesh Name: SM_Bld_House_Roof_FlatLip_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Roof_FlatLip_Corner_01
+    Mesh Name: SM_Bld_House_Roof_FlatLip_Corner_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Roof_Flat_01
+    Mesh Name: SM_Bld_House_Roof_Flat_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Roof_Flat_Corner_01
+    Mesh Name: SM_Bld_House_Roof_Flat_Corner_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Roof_Window_01
+    Mesh Name: SM_Bld_House_Roof_Window_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_House_Window_Glass_01
+        Slot: Window_Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_House_Roof_Window_02
+    Mesh Name: SM_Bld_House_Roof_Window_02
+        Slot: Window_Glass (No Albedo Texture)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Window_01
+    Mesh Name: SM_Bld_House_Window_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_House_Window_Glass_01
+        Slot: Window_Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_House_Window_02
+    Mesh Name: SM_Bld_House_Window_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_House_Window_Glass_02
+        Slot: Window_Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_House_Window_03
+    Mesh Name: SM_Bld_House_Window_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_House_Window_Glass_03
+        Slot: Window_Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_House_Window_04
+    Mesh Name: SM_Bld_House_Window_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_House_Window_Glass_04
+        Slot: Window_Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_House_Window_05
+    Mesh Name: SM_Bld_House_Window_05
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_House_Window_Glass_05
+        Slot: Window_Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_House_Window_Blinds_01
+    Mesh Name: SM_Bld_House_Window_Blinds_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Window_Blinds_Closed_01
+    Mesh Name: SM_Bld_House_Window_Blinds_Closed_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Window_Curtains_01
+    Mesh Name: SM_Bld_House_Window_Curtains_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Window_Curtains_Closed_01
+    Mesh Name: SM_Bld_House_Window_Curtains_Closed_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Window_Shutters_Closed_01
+    Mesh Name: SM_Bld_House_Window_Shutters_Closed_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Window_Shutters_Open_01
+    Mesh Name: SM_Bld_House_Window_Shutters_Open_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_Shop_01
+    Mesh Name: SM_Bld_Shop_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_Shop_01_Door_L
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_Shop_01_Door_R
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_Shop_01_Door_Rear_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_Shop_01_Door_Rear_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_Shop_02
+    Mesh Name: SM_Bld_Shop_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_Shop_02_Door_L
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_Shop_02_Door_R
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_Shop_02_Door_Rear
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_Shop_03
+    Mesh Name: SM_Bld_Shop_03
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_Shop_03_Door_L
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_Shop_03_Door_R
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Bld_Shop_03_Door_Rear
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_Shop_Concrete_01
+    Mesh Name: SM_Bld_Shop_Concrete_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_Shop_Sign_01
+    Mesh Name: SM_Bld_Shop_Sign_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_Skylight_01
+    Mesh Name: SM_Bld_Skylight_01
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_Skylight_02
+    Mesh Name: SM_Bld_Skylight_02
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_Skylight_03
+    Mesh Name: SM_Bld_Skylight_03
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+-------------------
+Folder Name: Characters
+-------------------
+Prefab Name: Character_Daughter_01
+    Mesh Name: Character_Daughter_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Father_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Father_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Mother_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Mother_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_SchoolBoy_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_SchoolGirl_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_ShopKeeper_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Son_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: Character_Father_01
+    Mesh Name: Character_Daughter_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Father_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Father_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Mother_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Mother_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_SchoolBoy_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_SchoolGirl_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_ShopKeeper_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Son_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: Character_Father_02
+    Mesh Name: Character_Daughter_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Father_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Father_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Mother_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Mother_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_SchoolBoy_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_SchoolGirl_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_ShopKeeper_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Son_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: Character_Mother_01
+    Mesh Name: Character_Daughter_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Father_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Father_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Mother_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Mother_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_SchoolBoy_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_SchoolGirl_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_ShopKeeper_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Son_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: Character_Mother_02
+    Mesh Name: Character_Daughter_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Father_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Father_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Mother_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Mother_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_SchoolBoy_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_SchoolGirl_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_ShopKeeper_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Son_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: Character_SchoolBoy_01
+    Mesh Name: Character_Daughter_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Father_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Father_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Mother_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Mother_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_SchoolBoy_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_SchoolGirl_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_ShopKeeper_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Son_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: Character_SchoolGirl_01
+    Mesh Name: Character_Daughter_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Father_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Father_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Mother_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Mother_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_SchoolBoy_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_SchoolGirl_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_ShopKeeper_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Son_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: Character_ShopKeeper_01
+    Mesh Name: Character_Daughter_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Father_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Father_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Mother_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Mother_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_SchoolBoy_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_SchoolGirl_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_ShopKeeper_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Son_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: Character_Son_01
+    Mesh Name: Character_Daughter_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Father_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Father_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Mother_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Mother_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_SchoolBoy_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_SchoolGirl_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_ShopKeeper_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: Character_Son_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+-------------------
+Folder Name: Environment
+-------------------
+Prefab Name: SM_Bld_House_Garage_Floor_01
+    Mesh Name: SM_Bld_House_Garage_Floor_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Bush_01
+    Mesh Name: SM_Env_Bush_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Bush_02
+    Mesh Name: SM_Env_Bush_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Bush_03
+    Mesh Name: SM_Env_Bush_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Bush_04
+    Mesh Name: SM_Env_Bush_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Concrete_Base_01
+    Mesh Name: SM_Env_Concrete_Base_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_DirtPatch_01
+    Mesh Name: SM_Env_DirtPatch_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Driveway_01
+    Mesh Name: SM_Env_Driveway_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Driveway_PathBoth_01
+    Mesh Name: SM_Env_Driveway_PathBoth_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Driveway_PathLeft_01
+    Mesh Name: SM_Env_Driveway_PathLeft_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Driveway_PathRight_01
+    Mesh Name: SM_Env_Driveway_PathRight_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Driveway_Wide_01
+    Mesh Name: SM_Env_Driveway_Wide_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Driveway_Wide_PathBoth_01
+    Mesh Name: SM_Env_Driveway_Wide_PathBoth_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Driveway_Wide_PathLeft_01
+    Mesh Name: SM_Env_Driveway_Wide_PathLeft_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Driveway_Wide_PathRight_01
+    Mesh Name: SM_Env_Driveway_Wide_PathRight_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Fence_White_Gate_01
+    Mesh Name: SM_Env_Fence_White_Gate_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Fence_White_Gate_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Fence_White_Post_01
+    Mesh Name: SM_Env_Fence_White_Post_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Fence_White_Straight_01
+    Mesh Name: SM_Env_Fence_White_Straight_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Fence_Wood_Gate_01
+    Mesh Name: SM_Env_Fence_Wood_Gate_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Fence_Wood_Gate_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Fence_Wood_Post_01
+    Mesh Name: SM_Env_Fence_Wood_Post_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Fence_Wood_Straight_01
+    Mesh Name: SM_Env_Fence_Wood_Straight_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_FlowerPatch_01
+    Mesh Name: SM_Env_FlowerPatch_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_FlowerPatch_02
+    Mesh Name: SM_Env_FlowerPatch_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_FlowerPatch_03
+    Mesh Name: SM_Env_FlowerPatch_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Gardenbox_Double_01
+    Mesh Name: SM_Env_Gardenbox_Double_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Gardenbox_Single_01
+    Mesh Name: SM_Env_Gardenbox_Single_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Garden_Corner_01
+    Mesh Name: SM_Env_Garden_Corner_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Garden_Corner_02
+    Mesh Name: SM_Env_Garden_Corner_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Garden_End_01
+    Mesh Name: SM_Env_Garden_End_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Garden_Straight_01
+    Mesh Name: SM_Env_Garden_Straight_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Garden_Straight_02
+    Mesh Name: SM_Env_Garden_Straight_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Garden_TSection_01
+    Mesh Name: SM_Env_Garden_TSection_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Grass_01
+    Mesh Name: SM_Env_Grass_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Grass_02
+    Mesh Name: SM_Env_Grass_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Grass_Edge_01
+    Mesh Name: SM_Env_Grass_Edge_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Grass_Edge_02
+    Mesh Name: SM_Env_Grass_Edge_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Grass_Edge_03
+    Mesh Name: SM_Env_Grass_Edge_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Grass_Patch_01
+    Mesh Name: SM_Env_Grass_Patch_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Grass_Patch_02
+    Mesh Name: SM_Env_Grass_Patch_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Grass_Patch_03
+    Mesh Name: SM_Env_Grass_Patch_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Grass_Patch_04
+    Mesh Name: SM_Env_Grass_Patch_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Hedge_01
+    Mesh Name: SM_Env_Hedge_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Hedge_02
+    Mesh Name: SM_Env_Hedge_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Hedge_03
+    Mesh Name: SM_Env_Hedge_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_PathBlock_01
+    Mesh Name: SM_Env_PathBlock_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_PathRight_01
+    Mesh Name: SM_Env_PathRight_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Path_01
+    Mesh Name: SM_Env_Path_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Path_02
+    Mesh Name: SM_Env_Path_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Path_DoorLeft_01
+    Mesh Name: SM_Env_Path_DoorLeft_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Path_DoorLeft_02
+    Mesh Name: SM_Env_Path_DoorLeft_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Path_Door_01
+    Mesh Name: SM_Env_Path_Door_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Plant_Cabbage_01
+    Mesh Name: SM_Env_Plant_Cabbage_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Plant_Carrot_01
+    Mesh Name: SM_Env_Plant_Carrot_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Plant_Corn_01
+    Mesh Name: SM_Env_Plant_Corn_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Plant_Lettuce_01
+    Mesh Name: SM_Env_Plant_Lettuce_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Plant_Onion_01
+    Mesh Name: SM_Env_Plant_Onion_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Plant_Pumpkin_01
+    Mesh Name: SM_Env_Plant_Pumpkin_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Plant_Tomato_01
+    Mesh Name: SM_Env_Plant_Tomato_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Plant_Vege_01
+    Mesh Name: SM_Env_Plant_Vege_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Plant_Vege_02
+    Mesh Name: SM_Env_Plant_Vege_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Road_01
+    Mesh Name: SM_Env_Road_01
+        Slot: PolygonTown_Road (PolygonTown_Road_01)
+
+Prefab Name: SM_Env_Road_Corner_End_02
+    Mesh Name: SM_Env_Road_Corner_End_02
+        Slot: PolygonTown_Road (PolygonTown_Road_01)
+
+Prefab Name: SM_Env_Road_Crossing_01
+    Mesh Name: SM_Env_Road_Crossing_01
+        Slot: PolygonTown_Road (PolygonTown_Road_01)
+
+Prefab Name: SM_Env_Road_Crossing_02
+    Mesh Name: SM_Env_Road_Crossing_02
+        Slot: PolygonTown_Road (PolygonTown_Road_01)
+
+Prefab Name: SM_Env_Road_Parking_01
+    Mesh Name: SM_Env_Road_Parking_01
+        Slot: PolygonTown_Road (PolygonTown_Road_01)
+
+Prefab Name: SM_Env_Road_Patch_01
+    Mesh Name: SM_Env_Road_Patch_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Road_SpeedBump_01
+    Mesh Name: SM_Env_Road_SpeedBump_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Road_SpeedBump_02
+    Mesh Name: SM_Env_Road_SpeedBump_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Corner_01
+    Mesh Name: SM_Env_Sidewalk_Corner_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Corner_02
+    Mesh Name: SM_Env_Sidewalk_Corner_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Corner_03
+    Mesh Name: SM_Env_Sidewalk_Corner_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Corner_04
+    Mesh Name: SM_Env_Sidewalk_Corner_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Corner_05
+    Mesh Name: SM_Env_Sidewalk_Corner_05
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Corner_End_01
+    Mesh Name: SM_Env_Sidewalk_Corner_End_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Corner_End_02
+    Mesh Name: SM_Env_Sidewalk_Corner_End_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Corner_End_03
+    Mesh Name: SM_Env_Sidewalk_Corner_End_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Crossing_01
+    Mesh Name: SM_Env_Sidewalk_Crossing_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Crossing_02 1
+    Mesh Name: SM_Env_Sidewalk_Crossing_02 1
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Crossing_02
+    Mesh Name: SM_Env_Sidewalk_Crossing_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Driveway_01
+    Mesh Name: SM_Env_Sidewalk_Driveway_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Driveway_Wide_01
+    Mesh Name: SM_Env_Sidewalk_Driveway_Wide_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Straight_01
+    Mesh Name: SM_Env_Sidewalk_Straight_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Straight_02
+    Mesh Name: SM_Env_Sidewalk_Straight_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Straight_03
+    Mesh Name: SM_Env_Sidewalk_Straight_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Straight_04
+    Mesh Name: SM_Env_Sidewalk_Straight_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Straight_Path_01
+    Mesh Name: SM_Env_Sidewalk_Straight_Path_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_01
+    Mesh Name: SM_Env_Tree_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_02
+    Mesh Name: SM_Env_Tree_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_02_Framed
+    Mesh Name: SM_Env_Tree_02_Framed
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_03
+    Mesh Name: SM_Env_Tree_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_03_Framed
+    Mesh Name: SM_Env_Tree_03_Framed
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Base_01
+    Mesh Name: SM_Env_Tree_Base_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_DirtPile_01
+    Mesh Name: SM_Env_Tree_DirtPile_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Large_01
+    Mesh Name: SM_Env_Tree_Large_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Env_Tree_House_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Env_Tree_Leaves_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Env_Tree_Swing_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Pine_01
+    Mesh Name: SM_Env_Tree_Pine_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Pine_02
+    Mesh Name: SM_Env_Tree_Pine_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Tall_01
+    Mesh Name: SM_Env_Tree_Tall_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Tall_02
+    Mesh Name: SM_Env_Tree_Tall_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+-------------------
+Folder Name: Generic
+-------------------
+Prefab Name: SM_Generic_Cloud_01
+    Mesh Name: SM_Generic_Cloud_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Cloud_02
+    Mesh Name: SM_Generic_Cloud_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Cloud_03
+    Mesh Name: SM_Generic_Cloud_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Cloud_04
+    Mesh Name: SM_Generic_Cloud_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Cloud_05
+    Mesh Name: SM_Generic_Cloud_05
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Ground_01
+    Mesh Name: SM_Generic_Ground_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Ground_02
+    Mesh Name: SM_Generic_Ground_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Ground_03
+    Mesh Name: SM_Generic_Ground_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Ground_04
+    Mesh Name: SM_Generic_Ground_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Ground_Flat_01
+    Mesh Name: SM_Generic_Ground_Flat_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Ground_Tile_01
+    Mesh Name: SM_Generic_Ground_Tile_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Mountains_Grass_01
+    Mesh Name: SM_Generic_Mountains_Grass_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Mountains_Grass_02
+    Mesh Name: SM_Generic_Mountains_Grass_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Mountains_Snow_01
+    Mesh Name: SM_Generic_Mountains_Snow_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Mountains_Soft_01
+    Mesh Name: SM_Generic_Mountains_Soft_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Ocean_Tile_Bumps_01
+    Mesh Name: SM_Generic_Ocean_Tile_Bumps_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Ocean_Tile_Flat_01
+    Mesh Name: SM_Generic_Ocean_Tile_Flat_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Small_Rocks_01
+    Mesh Name: SM_Generic_Small_Rocks_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Small_Rocks_02
+    Mesh Name: SM_Generic_Small_Rocks_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Small_Rocks_03
+    Mesh Name: SM_Generic_Small_Rocks_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Small_Rocks_04
+    Mesh Name: SM_Generic_Small_Rocks_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Small_Rocks_05
+    Mesh Name: SM_Generic_Small_Rocks_05
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_TreeDead_01
+    Mesh Name: SM_Generic_TreeDead_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_TreeStump_01
+    Mesh Name: SM_Generic_TreeStump_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Tree_01
+    Mesh Name: SM_Generic_Tree_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Tree_02
+    Mesh Name: SM_Generic_Tree_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Tree_03
+    Mesh Name: SM_Generic_Tree_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Tree_04
+    Mesh Name: SM_Generic_Tree_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Tree_Patch_01
+    Mesh Name: SM_Generic_Tree_Patch_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Generic_Tree_Patch_02
+    Mesh Name: SM_Generic_Tree_Patch_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Gerneric_Grass_Patch_01
+    Mesh Name: SM_Gerneric_Grass_Patch_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Gerneric_Grass_Patch_02
+    Mesh Name: SM_Gerneric_Grass_Patch_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Gerneric_Grass_Patch_03
+    Mesh Name: SM_Gerneric_Grass_Patch_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+-------------------
+Folder Name: Items
+-------------------
+Prefab Name: SM_Item_Alcohol_01
+    Mesh Name: SM_Item_Alcohol_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Alcohol_02
+    Mesh Name: SM_Item_Alcohol_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Alcohol_03
+    Mesh Name: SM_Item_Alcohol_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Ball_American_01
+    Mesh Name: SM_Item_Ball_American_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Ball_Soccer_01
+    Mesh Name: SM_Item_Ball_Soccer_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_BeerCup_01
+    Mesh Name: SM_Item_BeerCup_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Blade_01
+    Mesh Name: SM_Item_Blade_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Boxcutter_01
+    Mesh Name: SM_Item_Boxcutter_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Bread_01
+    Mesh Name: SM_Item_Bread_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Brush_01
+    Mesh Name: SM_Item_Brush_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Brush_02
+    Mesh Name: SM_Item_Brush_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Can_01
+    Mesh Name: SM_Item_Can_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Can_02
+    Mesh Name: SM_Item_Can_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Chisel_01
+    Mesh Name: SM_Item_Chisel_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Corn_01
+    Mesh Name: SM_Item_Corn_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Cup_01
+    Mesh Name: SM_Item_Cup_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Cutlery_Fork_01
+    Mesh Name: SM_Item_Cutlery_Fork_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Cutlery_Knife_01
+    Mesh Name: SM_Item_Cutlery_Knife_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Cutlery_Spoon_01
+    Mesh Name: SM_Item_Cutlery_Spoon_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Drill_01
+    Mesh Name: SM_Item_Drill_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Drink_01
+    Mesh Name: SM_Item_Drink_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Drink_02
+    Mesh Name: SM_Item_Drink_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Drink_03
+    Mesh Name: SM_Item_Drink_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Drink_04
+    Mesh Name: SM_Item_Drink_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Drink_Glass_01
+    Mesh Name: SM_Item_Drink_Glass_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Drink_Glass_02
+    Mesh Name: SM_Item_Drink_Glass_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Frisbee_01
+    Mesh Name: SM_Item_Frisbee_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Garden_Fork_01
+    Mesh Name: SM_Item_Garden_Fork_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Garden_Trowel_01
+    Mesh Name: SM_Item_Garden_Trowel_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Garden_Trowel_02
+    Mesh Name: SM_Item_Garden_Trowel_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_GlassCup_01
+    Mesh Name: SM_Item_GlassCup_01
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_GlassCup_02
+    Mesh Name: SM_Item_GlassCup_02
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Hacksaw_01
+    Mesh Name: SM_Item_Hacksaw_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Hacksaw_02
+    Mesh Name: SM_Item_Hacksaw_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Hammer_01
+    Mesh Name: SM_Item_Hammer_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Hammer_02
+    Mesh Name: SM_Item_Hammer_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Hammer_03
+    Mesh Name: SM_Item_Hammer_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_JuiceJug_01
+    Mesh Name: SM_Item_JuiceJug_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Mallet_01
+    Mesh Name: SM_Item_Mallet_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Mallet_02
+    Mesh Name: SM_Item_Mallet_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Mouthwash_01
+    Mesh Name: SM_Item_Mouthwash_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Mug_01
+    Mesh Name: SM_Item_Mug_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Nails_01
+    Mesh Name: SM_Item_Nails_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Onion_01
+    Mesh Name: SM_Item_Onion_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Pizza_Box_01
+    Mesh Name: SM_Item_Pizza_Box_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Item_Pizza_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Item_Pizza_Lid_e01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Item_Pizza_Slice_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Pumpkin_01
+    Mesh Name: SM_Item_Pumpkin_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Sausage_Bun_01
+    Mesh Name: SM_Item_Sausage_Bun_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Sausage_Cooked_01
+    Mesh Name: SM_Item_Sausage_Cooked_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Sausage_Raw_01
+    Mesh Name: SM_Item_Sausage_Raw_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Saw_01
+    Mesh Name: SM_Item_Saw_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Scrapper_01
+    Mesh Name: SM_Item_Scrapper_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Screwdriver_01
+    Mesh Name: SM_Item_Screwdriver_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Screwdriver_02
+    Mesh Name: SM_Item_Screwdriver_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Soap_01
+    Mesh Name: SM_Item_Soap_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Soap_02
+    Mesh Name: SM_Item_Soap_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Spanner_01
+    Mesh Name: SM_Item_Spanner_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Spanner_02
+    Mesh Name: SM_Item_Spanner_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_ToiletRoll_01
+    Mesh Name: SM_Item_ToiletRoll_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_ToiletRoll_02
+    Mesh Name: SM_Item_ToiletRoll_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_ToiletRoll_03
+    Mesh Name: SM_Item_ToiletRoll_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_ToiletRoll_04
+    Mesh Name: SM_Item_ToiletRoll_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_ToiletRoll_Mounted_01
+    Mesh Name: SM_Item_ToiletRoll_Mounted_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Tomato_01
+    Mesh Name: SM_Item_Tomato_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_ToolBox_01
+    Mesh Name: SM_Item_ToolBox_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Toothbrush_01
+    Mesh Name: SM_Item_Toothbrush_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Toothbrush_02
+    Mesh Name: SM_Item_Toothbrush_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Toothbrush_Cup_01
+    Mesh Name: SM_Item_Toothbrush_Cup_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Toothpaste_01
+    Mesh Name: SM_Item_Toothpaste_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_WateringCan_01
+    Mesh Name: SM_Item_WateringCan_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Wirecutter_01
+    Mesh Name: SM_Item_Wirecutter_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Wirecutter_02
+    Mesh Name: SM_Item_Wirecutter_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Item_Wirecutter_Handle_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Item_Wrench_01
+    Mesh Name: SM_Item_Wrench_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+-------------------
+Folder Name: Props
+-------------------
+Prefab Name: SM_Prop_Airvent_01
+    Mesh Name: SM_Prop_Airvent_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Airvent_02
+    Mesh Name: SM_Prop_Airvent_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_AirVent_03
+    Mesh Name: SM_Prop_AirVent_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Airvent_Flat_01
+    Mesh Name: SM_Prop_Airvent_Flat_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Antenna_01
+    Mesh Name: SM_Prop_Antenna_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Art_01
+    Mesh Name: SM_Prop_Art_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Art_02
+    Mesh Name: SM_Prop_Art_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Art_03
+    Mesh Name: SM_Prop_Art_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Art_04
+    Mesh Name: SM_Prop_Art_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Art_05
+    Mesh Name: SM_Prop_Art_05
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Art_06
+    Mesh Name: SM_Prop_Art_06
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Art_07
+    Mesh Name: SM_Prop_Art_07
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Art_08
+    Mesh Name: SM_Prop_Art_08
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Art_09
+    Mesh Name: SM_Prop_Art_09
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Art_Standing_01
+    Mesh Name: SM_Prop_Art_Standing_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Art_Standing_02
+    Mesh Name: SM_Prop_Art_Standing_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Art_Standing_03
+    Mesh Name: SM_Prop_Art_Standing_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_BabyCot_01
+    Mesh Name: SM_Prop_BabyCot_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_BabyCot_Door_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_BabyCot_Mobile_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Barbeque_01
+    Mesh Name: SM_Prop_Barbeque_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Barbeque_Lid_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Barrel_01
+    Mesh Name: SM_Prop_Barrel_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_BathroomRug_01
+    Mesh Name: SM_Prop_BathroomRug_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_BathroomRug_02
+    Mesh Name: SM_Prop_BathroomRug_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_BathroomSink_01
+    Mesh Name: SM_Prop_BathroomSink_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_BathroomSink_02
+    Mesh Name: SM_Prop_BathroomSink_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Bath_01
+    Mesh Name: SM_Prop_Bath_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Bath_01_Water
+        Slot: Water (No Albedo Texture)
+
+Prefab Name: SM_Prop_Bath_02
+    Mesh Name: SM_Prop_Bath_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Bath_02_Water
+        Slot: Water (No Albedo Texture)
+
+Prefab Name: SM_Prop_BedsideTable_01
+    Mesh Name: SM_Prop_BedsideTable_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_BedsideTable_Drawer_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Bed_Bunk_01
+    Mesh Name: SM_Prop_Bed_Bunk_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Bed_Double_01
+    Mesh Name: SM_Prop_Bed_Double_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Bed_Double_02
+    Mesh Name: SM_Prop_Bed_Double_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Bed_Double_03
+    Mesh Name: SM_Prop_Bed_Double_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Bed_Single_01
+    Mesh Name: SM_Prop_Bed_Single_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Bed_Single_02
+    Mesh Name: SM_Prop_Bed_Single_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Bed_Single_03
+    Mesh Name: SM_Prop_Bed_Single_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_BikeStand_01
+    Mesh Name: SM_Prop_BikeStand_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_BirdBath_01
+    Mesh Name: SM_Prop_BirdBath_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_BookOpen_01
+    Mesh Name: SM_Prop_BookOpen_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Bookshelf_01
+    Mesh Name: SM_Prop_Bookshelf_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Bookshelf_02
+    Mesh Name: SM_Prop_Bookshelf_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_01
+    Mesh Name: SM_Prop_Book_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_02
+    Mesh Name: SM_Prop_Book_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_03
+    Mesh Name: SM_Prop_Book_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Group_01
+    Mesh Name: SM_Prop_Book_Group_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Group_02
+    Mesh Name: SM_Prop_Book_Group_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Group_03
+    Mesh Name: SM_Prop_Book_Group_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Group_04
+    Mesh Name: SM_Prop_Book_Group_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Group_05
+    Mesh Name: SM_Prop_Book_Group_05
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Group_06
+    Mesh Name: SM_Prop_Book_Group_06
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Group_07
+    Mesh Name: SM_Prop_Book_Group_07
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Group_08
+    Mesh Name: SM_Prop_Book_Group_08
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Group_09
+    Mesh Name: SM_Prop_Book_Group_09
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Brazier_01
+    Mesh Name: SM_Prop_Brazier_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_BreadBin_01
+    Mesh Name: SM_Prop_BreadBin_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Bucket_01
+    Mesh Name: SM_Prop_Bucket_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Cabinet_01
+    Mesh Name: SM_Prop_Cabinet_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Cabinet_01_Door_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Cabinet_01_Door_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Cake_01
+    Mesh Name: SM_Prop_Cake_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Cake_02
+    Mesh Name: SM_Prop_Cake_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Cake_Slice_01
+    Mesh Name: SM_Prop_Cake_Slice_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Cake_Slice_02
+    Mesh Name: SM_Prop_Cake_Slice_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Candles_01
+    Mesh Name: SM_Prop_Candles_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Candles_02
+    Mesh Name: SM_Prop_Candles_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Candles_03
+    Mesh Name: SM_Prop_Candles_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_CardboardBox_01
+    Mesh Name: SM_Prop_CardboardBox_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_CardboardBox_02
+    Mesh Name: SM_Prop_CardboardBox_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_CardboardBox_03
+    Mesh Name: SM_Prop_CardboardBox_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_CardboardBox_04
+    Mesh Name: SM_Prop_CardboardBox_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_CardboardBox_05
+    Mesh Name: SM_Prop_CardboardBox_05
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Cart_01
+    Mesh Name: SM_Prop_Cart_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_CeilingExit_01
+    Mesh Name: SM_Prop_CeilingExit_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_CeilingFan_01
+    Mesh Name: SM_Prop_CeilingFan_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_CeilingFan_Blade_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_CeilingLight_01
+    Mesh Name: SM_Prop_CeilingLight_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_CeilingLight_02
+    Mesh Name: SM_Prop_CeilingLight_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_CeilingLight_03
+    Mesh Name: SM_Prop_CeilingLight_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_CeilingLight_04
+    Mesh Name: SM_Prop_CeilingLight_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_CeilingLight_05
+    Mesh Name: SM_Prop_CeilingLight_05
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_CeilingLight_06
+    Mesh Name: SM_Prop_CeilingLight_06
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Chair_01
+    Mesh Name: SM_Prop_Chair_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Chair_02
+    Mesh Name: SM_Prop_Chair_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Chair_03
+    Mesh Name: SM_Prop_Chair_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Chair_04
+    Mesh Name: SM_Prop_Chair_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Chair_05
+    Mesh Name: SM_Prop_Chair_05
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Cheese_01
+    Mesh Name: SM_Prop_Cheese_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Church_Pew_01
+    Mesh Name: SM_Prop_Church_Pew_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Church_Stand_01
+    Mesh Name: SM_Prop_Church_Stand_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Clock_01
+    Mesh Name: SM_Prop_Clock_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Clock_02
+    Mesh Name: SM_Prop_Clock_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_CoffeeMachine_01
+    Mesh Name: SM_Prop_CoffeeMachine_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Coffee_Pot_01
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_CoffeeTable_01
+    Mesh Name: SM_Prop_CoffeeTable_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_CoffeeTable_02
+    Mesh Name: SM_Prop_CoffeeTable_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Compost_01
+    Mesh Name: SM_Prop_Compost_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Computer_Keyboard_01
+    Mesh Name: SM_Prop_Computer_Keyboard_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Computer_Mouse_01
+    Mesh Name: SM_Prop_Computer_Mouse_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Computer_Screen_01
+    Mesh Name: SM_Prop_Computer_Screen_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_CookingPot_01
+    Mesh Name: SM_Prop_CookingPot_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_CookingPot_Lid_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Cooler_01
+    Mesh Name: SM_Prop_Cooler_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Couch_01
+    Mesh Name: SM_Prop_Couch_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Couch_02
+    Mesh Name: SM_Prop_Couch_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Couch_03
+    Mesh Name: SM_Prop_Couch_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Couch_04
+    Mesh Name: SM_Prop_Couch_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Couch_05
+    Mesh Name: SM_Prop_Couch_05
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Couch_06
+    Mesh Name: SM_Prop_Couch_06
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Couch_07
+    Mesh Name: SM_Prop_Couch_07
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Cushion_01
+    Mesh Name: SM_Prop_Cushion_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Cushion_02
+    Mesh Name: SM_Prop_Cushion_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Cushion_03
+    Mesh Name: SM_Prop_Cushion_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_CuttingBoard_01
+    Mesh Name: SM_Prop_CuttingBoard_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Deckchair_01
+    Mesh Name: SM_Prop_Deckchair_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Deckchair_02
+    Mesh Name: SM_Prop_Deckchair_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Deckchair_03
+    Mesh Name: SM_Prop_Deckchair_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Deckchair_04
+    Mesh Name: SM_Prop_Deckchair_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_DeskChair_01
+    Mesh Name: SM_Prop_DeskChair_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Desk_01
+    Mesh Name: SM_Prop_Desk_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Desk_02
+    Mesh Name: SM_Prop_Desk_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_DiningChair_01
+    Mesh Name: SM_Prop_DiningChair_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_DiningChair_02
+    Mesh Name: SM_Prop_DiningChair_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_DiningChair_03
+    Mesh Name: SM_Prop_DiningChair_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_DiningTable_01
+    Mesh Name: SM_Prop_DiningTable_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_DiningTable_02
+    Mesh Name: SM_Prop_DiningTable_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Doghouse_01
+    Mesh Name: SM_Prop_Doghouse_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Drain_01
+    Mesh Name: SM_Prop_Drain_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Drawers_01
+    Mesh Name: SM_Prop_Drawers_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Dresser_01
+    Mesh Name: SM_Prop_Dresser_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_01_Drawer_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_01_Drawer_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_01_Drawer_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Dresser_01_Combined
+    Mesh Name: SM_Prop_Dresser_01_Combined
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Dresser_02
+    Mesh Name: SM_Prop_Dresser_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_02_Drawer_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_02_Drawer_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_02_Drawer_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Dresser_02_Combined
+    Mesh Name: SM_Prop_Dresser_02_Combined
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Dresser_03
+    Mesh Name: SM_Prop_Dresser_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_03_Drawer_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_03_Drawer_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_03_Drawer_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_03_Drawer_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_03_Drawer_05
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_03_Drawer_06
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Dresser_03_Combined
+    Mesh Name: SM_Prop_Dresser_03_Combined
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_DVDStack_01
+    Mesh Name: SM_Prop_DVDStack_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_DVDStack_02
+    Mesh Name: SM_Prop_DVDStack_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_ElectricalCover_01
+    Mesh Name: SM_Prop_ElectricalCover_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Fireplace_01
+    Mesh Name: SM_Prop_Fireplace_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Fireplace_02
+    Mesh Name: SM_Prop_Fireplace_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Flag_Wall_01
+    Mesh Name: SM_Prop_Flag_Wall_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Flamingo_01
+    Mesh Name: SM_Prop_Flamingo_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_FloorMat_01
+    Mesh Name: SM_Prop_FloorMat_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Flowers_01
+    Mesh Name: SM_Prop_Flowers_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Flowers_02
+    Mesh Name: SM_Prop_Flowers_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Flowers_03
+    Mesh Name: SM_Prop_Flowers_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_ForSaleSign_01
+    Mesh Name: SM_Prop_ForSaleSign_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Fountain_01
+    Mesh Name: SM_Prop_Fountain_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Fountain_Base_01
+    Mesh Name: SM_Prop_Fountain_Base_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_FridgeDrinks_01
+    Mesh Name: SM_Prop_FridgeDrinks_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_FridgeDrinks_Contents_01
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_FruitBowl_01
+    Mesh Name: SM_Prop_FruitBowl_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Game_Console_01
+    Mesh Name: SM_Prop_Game_Console_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Game_Console_02
+    Mesh Name: SM_Prop_Game_Console_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Game_Console_03
+    Mesh Name: SM_Prop_Game_Console_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Game_Controller_01
+    Mesh Name: SM_Prop_Game_Controller_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_GardenMarker_01
+    Mesh Name: SM_Prop_GardenMarker_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Gaspump_01
+    Mesh Name: SM_Prop_Gaspump_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Gaspump_Base_01
+    Mesh Name: SM_Prop_Gaspump_Base_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Gaspump_Cover_01
+    Mesh Name: SM_Prop_Gaspump_Cover_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_GlassesStand_01
+    Mesh Name: SM_Prop_GlassesStand_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Globe_01
+    Mesh Name: SM_Prop_Globe_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Heater_01
+    Mesh Name: SM_Prop_Heater_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Heater_02
+    Mesh Name: SM_Prop_Heater_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Hoop_01
+    Mesh Name: SM_Prop_Hoop_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Hoop_Child_01
+    Mesh Name: SM_Prop_Hoop_Child_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_HoseReel_01
+    Mesh Name: SM_Prop_HoseReel_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_HotdogHeater_01
+    Mesh Name: SM_Prop_HotdogHeater_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Icecream_Freezer_01
+    Mesh Name: SM_Prop_Icecream_Freezer_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Icecream_Freezer_Door_01
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Icecream_Freezer_Door_02
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Jar_01
+    Mesh Name: SM_Prop_Jar_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Jar_02
+    Mesh Name: SM_Prop_Jar_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Keg_01
+    Mesh Name: SM_Prop_Keg_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_KitchenCabinet_01
+    Mesh Name: SM_Prop_KitchenCabinet_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_KitchenCabinet_01_Door_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_KitchenCabinet_01_Door_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Kitchen_CounterCorner_01
+    Mesh Name: SM_Prop_Kitchen_CounterCorner_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Kitchen_CounterEnd_01
+    Mesh Name: SM_Prop_Kitchen_CounterEnd_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Kitchen_CounterSink_01
+    Mesh Name: SM_Prop_Kitchen_CounterSink_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Kitchen_CounterSink_01_Door_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Kitchen_CounterSink_01_Door_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Kitchen_CounterWashing_01
+    Mesh Name: SM_Prop_Kitchen_CounterWashing_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Kitchen_CounterWashing_Machine_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Kitchen_CounterWashing_Machine_01_Door
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Kitchen_Counter_01
+    Mesh Name: SM_Prop_Kitchen_Counter_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Kitchen_Counter_01_Door_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Kitchen_Counter_01_Door_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Kitchen_Counter_01_Drawer_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Kitchen_Counter_02
+    Mesh Name: SM_Prop_Kitchen_Counter_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Kitchen_Extractor_01
+    Mesh Name: SM_Prop_Kitchen_Extractor_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Kitchen_Fridge_01
+    Mesh Name: SM_Prop_Kitchen_Fridge_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Kitchen_Fridge_01_Door_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Kitchen_Fridge_01_Door_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Kitchen_Fridge_02
+    Mesh Name: SM_Prop_Kitchen_Fridge_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Kitchen_Fridge_02_Door_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Kitchen_Fridge_02_Door_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Kitchen_Fridge_02_Door_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Ladder_01
+    Mesh Name: SM_Prop_Ladder_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_LampStanding_01
+    Mesh Name: SM_Prop_LampStanding_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_LampStanding_02
+    Mesh Name: SM_Prop_LampStanding_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Lamp_01
+    Mesh Name: SM_Prop_Lamp_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Lamp_02
+    Mesh Name: SM_Prop_Lamp_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Lamp_03
+    Mesh Name: SM_Prop_Lamp_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_LaundryBin_01
+    Mesh Name: SM_Prop_LaundryBin_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_LaundryBin_01_Clothes
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_LaundryBin_02
+    Mesh Name: SM_Prop_LaundryBin_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_LaundryBin_02_Clothes
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_LaundryBox_01
+    Mesh Name: SM_Prop_LaundryBox_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Laundry_Pile_01
+    Mesh Name: SM_Prop_Laundry_Pile_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Laundry_Sink_01
+    Mesh Name: SM_Prop_Laundry_Sink_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Laundry_Sink_CabinetDoor_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Laundry_Sink_CabinetDoor_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Laundry_WasherFront_01
+    Mesh Name: SM_Prop_Laundry_WasherFront_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Laundry_WasherFront_Clothes_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Laundry_WasherFront_Door_01
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Laundry_WasherTop_01
+    Mesh Name: SM_Prop_Laundry_WasherTop_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Laundry_WasherTop_Clothes_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Laundry_WasherTop_Lid_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_LetterBox_01
+    Mesh Name: SM_Prop_LetterBox_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_LetterBox_01_Door_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_LetterBox_01_Flag
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_LetterBox_02
+    Mesh Name: SM_Prop_LetterBox_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_LetterBox_02_Door
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_LetterBox_03
+    Mesh Name: SM_Prop_LetterBox_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_LetterBox_03_Door_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_LetterBox_03_Flag
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Lightswitch_01
+    Mesh Name: SM_Prop_Lightswitch_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Lightswitch_02
+    Mesh Name: SM_Prop_Lightswitch_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Manhole_01
+    Mesh Name: SM_Prop_Manhole_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Microwave_01
+    Mesh Name: SM_Prop_Microwave_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Microwave_Door_01
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Mirror_01
+    Mesh Name: SM_Prop_Mirror_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Mirror_01_Glass
+        Slot: Mirror_Glass (No Albedo Texture)
+
+Prefab Name: SM_Prop_Mirror_02
+    Mesh Name: SM_Prop_Mirror_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Mirror_02_Glass
+        Slot: Mirror_Glass (No Albedo Texture)
+
+Prefab Name: SM_Prop_OutdoorOven_01
+    Mesh Name: SM_Prop_OutdoorOven_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Outdoor_Heater_01
+    Mesh Name: SM_Prop_Outdoor_Heater_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Outdoor_Light_01
+    Mesh Name: SM_Prop_Outdoor_Light_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Outdoor_Light_02
+    Mesh Name: SM_Prop_Outdoor_Light_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Outdoor_Table_01
+    Mesh Name: SM_Prop_Outdoor_Table_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Outdoor_Table_02
+    Mesh Name: SM_Prop_Outdoor_Table_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Oven_01
+    Mesh Name: SM_Prop_Oven_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Oven_Lid_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Pan_01
+    Mesh Name: SM_Prop_Pan_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_ParkBench_01
+    Mesh Name: SM_Prop_ParkBench_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_PetBowl_01
+    Mesh Name: SM_Prop_PetBowl_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_PetBowl_01_Food
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_PetBowl_02
+    Mesh Name: SM_Prop_PetBowl_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_PetBowl_02_Food
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_PetBowl_02_Water
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Phone_01
+    Mesh Name: SM_Prop_Phone_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Piano_01
+    Mesh Name: SM_Prop_Piano_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Pillow_01
+    Mesh Name: SM_Prop_Pillow_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_01
+    Mesh Name: SM_Prop_Plant_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_02
+    Mesh Name: SM_Prop_Plant_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Plate_01
+    Mesh Name: SM_Prop_Plate_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Plate_02
+    Mesh Name: SM_Prop_Plate_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Playground_Fort_01
+    Mesh Name: SM_Prop_Playground_Fort_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Playground_Roundabout_01
+    Mesh Name: SM_Prop_Playground_Roundabout_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Playground_Slide_01
+    Mesh Name: SM_Prop_Playground_Slide_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Playground_Swing_01
+    Mesh Name: SM_Prop_Playground_Swing_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Playground_Swing_Dirt_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Playground_Table_01
+    Mesh Name: SM_Prop_Playground_Table_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Pool_Aboveground_01 (1)
+    Mesh Name: SM_Prop_Pool_Aboveground_01 (1)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Pool_Aboveground_Water_01
+        Slot: Water (No Albedo Texture)
+
+Prefab Name: SM_Prop_Pool_Child_01
+    Mesh Name: SM_Prop_Pool_Child_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Pool_Child_Water_01
+        Slot: Water (No Albedo Texture)
+
+Prefab Name: SM_Prop_Pool_DivingBoard_01
+    Mesh Name: SM_Prop_Pool_DivingBoard_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Pool_Float_Bed_01
+    Mesh Name: SM_Prop_Pool_Float_Bed_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Pool_Float_Noodle_01
+    Mesh Name: SM_Prop_Pool_Float_Noodle_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Pool_Float_Noodle_02
+    Mesh Name: SM_Prop_Pool_Float_Noodle_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Pool_Float_Noodle_03
+    Mesh Name: SM_Prop_Pool_Float_Noodle_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Pool_Float_Ring_01
+    Mesh Name: SM_Prop_Pool_Float_Ring_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Pool_Float_Ring_02
+    Mesh Name: SM_Prop_Pool_Float_Ring_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Pool_Float_Ring_03
+    Mesh Name: SM_Prop_Pool_Float_Ring_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Pool_Float_Ring_04
+    Mesh Name: SM_Prop_Pool_Float_Ring_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Pool_Inground_01
+    Mesh Name: SM_Prop_Pool_Inground_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Pool_Inground_Water_01
+        Slot: Water (No Albedo Texture)
+
+Prefab Name: SM_Prop_Pool_Ladder_01
+    Mesh Name: SM_Prop_Pool_Ladder_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Pool_Ladder_02
+    Mesh Name: SM_Prop_Pool_Ladder_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Pool_Spa_01
+    Mesh Name: SM_Prop_Pool_Spa_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Pool_Spa_Water_01
+        Slot: Water (No Albedo Texture)
+
+Prefab Name: SM_Prop_PotPlant_01
+    Mesh Name: SM_Prop_PotPlant_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_PotPlant_02
+    Mesh Name: SM_Prop_PotPlant_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_PotPlant_03
+    Mesh Name: SM_Prop_PotPlant_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_PotPlant_04
+    Mesh Name: SM_Prop_PotPlant_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_PotPlant_05
+    Mesh Name: SM_Prop_PotPlant_05
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_PotPlant_Hanging_01
+    Mesh Name: SM_Prop_PotPlant_Hanging_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_PotPlant_Hanging_02
+    Mesh Name: SM_Prop_PotPlant_Hanging_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Pot_01
+    Mesh Name: SM_Prop_Pot_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Pot_02
+    Mesh Name: SM_Prop_Pot_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Pot_03
+    Mesh Name: SM_Prop_Pot_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Pot_04
+    Mesh Name: SM_Prop_Pot_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Pot_05
+    Mesh Name: SM_Prop_Pot_05
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Pot_06
+    Mesh Name: SM_Prop_Pot_06
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Pot_07
+    Mesh Name: SM_Prop_Pot_07
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_PowerPlug_01
+    Mesh Name: SM_Prop_PowerPlug_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Propanel_01
+    Mesh Name: SM_Prop_Propanel_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Propanel_02
+    Mesh Name: SM_Prop_Propanel_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Propane_01
+    Mesh Name: SM_Prop_Propane_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Propane_Tall_01
+    Mesh Name: SM_Prop_Propane_Tall_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Propane_Tall_02
+    Mesh Name: SM_Prop_Propane_Tall_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_RubbishBin_01
+    Mesh Name: SM_Prop_RubbishBin_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_RubbishBin_01_Lid
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_RubbishBin_02
+    Mesh Name: SM_Prop_RubbishBin_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_RubbishBin_02_Lid
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_RubbishBin_Small_01
+    Mesh Name: SM_Prop_RubbishBin_Small_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Rug_01
+    Mesh Name: SM_Prop_Rug_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Rug_02
+    Mesh Name: SM_Prop_Rug_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Rug_03
+    Mesh Name: SM_Prop_Rug_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Safe_01
+    Mesh Name: SM_Prop_Safe_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Safe_Door_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_SandBucket_01
+    Mesh Name: SM_Prop_SandBucket_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Sandpit_01
+    Mesh Name: SM_Prop_Sandpit_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_SatelliteDish_01
+    Mesh Name: SM_Prop_SatelliteDish_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_SatelliteDish_02
+    Mesh Name: SM_Prop_SatelliteDish_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Scales_01
+    Mesh Name: SM_Prop_Scales_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_SecurityLights_01
+    Mesh Name: SM_Prop_SecurityLights_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Shelf_01
+    Mesh Name: SM_Prop_Shelf_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Shelf_01_Door_01
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Shelf_01_Drawer_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Shelf_01_Drawer_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Shelf_01_Drawer_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Shelf_01_Combined
+    Mesh Name: SM_Prop_Shelf_01_Combined
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_ShopCheckout_01
+    Mesh Name: SM_Prop_ShopCheckout_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_ShopCounter_01
+    Mesh Name: SM_Prop_ShopCounter_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_ShopCounter_02
+    Mesh Name: SM_Prop_ShopCounter_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_ShopFridge_01
+    Mesh Name: SM_Prop_ShopFridge_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_ShopFridge_01_Door_01
+        Slot: Fridge_Glass (No Albedo Texture)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_ShopFridge_01_Door_02
+        Slot: Fridge_Glass (No Albedo Texture)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_ShopFridge_01_Door_03
+        Slot: Fridge_Glass (No Albedo Texture)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_ShopFridge_02
+    Mesh Name: SM_Prop_ShopFridge_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_ShopFridge_02_Door_01
+        Slot: Fridge_Glass (No Albedo Texture)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_ShopFridge_02_Door_02
+        Slot: Fridge_Glass (No Albedo Texture)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_ShopShelf_01
+    Mesh Name: SM_Prop_ShopShelf_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_ShopShelf_02
+    Mesh Name: SM_Prop_ShopShelf_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_ShopShelf_Wall_01
+    Mesh Name: SM_Prop_ShopShelf_Wall_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Shower_01
+    Mesh Name: SM_Prop_Shower_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Shower_01_Glass
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Shower_02
+    Mesh Name: SM_Prop_Shower_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Shower_02_Glass
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_01
+    Mesh Name: SM_Prop_Sign_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_BusStop_01
+    Mesh Name: SM_Prop_Sign_BusStop_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Stop_01
+    Mesh Name: SM_Prop_Sign_Stop_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_SlushieMachine_01
+    Mesh Name: SM_Prop_SlushieMachine_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_SolarPanel_01
+    Mesh Name: SM_Prop_SolarPanel_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Sprinkler_01
+    Mesh Name: SM_Prop_Sprinkler_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Stereo_01
+    Mesh Name: SM_Prop_Stereo_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Stereo_Speaker_01
+    Mesh Name: SM_Prop_Stereo_Speaker_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Stereo_Speaker_Large_01
+    Mesh Name: SM_Prop_Stereo_Speaker_Large_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Stereo_Speaker_Tall_01
+    Mesh Name: SM_Prop_Stereo_Speaker_Tall_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Stool_01
+    Mesh Name: SM_Prop_Stool_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Streetlamp_01
+    Mesh Name: SM_Prop_Streetlamp_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Streetlamp_02
+    Mesh Name: SM_Prop_Streetlamp_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_StreetSign_01
+    Mesh Name: SM_Prop_StreetSign_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_StreetSign_02
+    Mesh Name: SM_Prop_StreetSign_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_StreetSign_03
+    Mesh Name: SM_Prop_StreetSign_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_StreetSign_04
+    Mesh Name: SM_Prop_StreetSign_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_StreetSign_05
+    Mesh Name: SM_Prop_StreetSign_05
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_StreetSign_06
+    Mesh Name: SM_Prop_StreetSign_06
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_StreetSign_Arrow_01
+    Mesh Name: SM_Prop_StreetSign_Arrow_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_StreetSign_Pole_01
+    Mesh Name: SM_Prop_StreetSign_Pole_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Television_DVD_01
+    Mesh Name: SM_Prop_Television_DVD_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Television_Flat_01
+    Mesh Name: SM_Prop_Television_Flat_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: TelevisionScreen (No Albedo Texture)
+
+Prefab Name: SM_Prop_Television_Flat_Wall_01
+    Mesh Name: SM_Prop_Television_Flat_Wall_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: TelevisionScreen (No Albedo Texture)
+
+Prefab Name: SM_Prop_Television_Old_01
+    Mesh Name: SM_Prop_Television_Old_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: TelevisionScreen (No Albedo Texture)
+
+Prefab Name: SM_Prop_Television_Remote_01
+    Mesh Name: SM_Prop_Television_Remote_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Television_Remote_02
+    Mesh Name: SM_Prop_Television_Remote_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Toaster_01
+    Mesh Name: SM_Prop_Toaster_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_ToiletBrush_01
+    Mesh Name: SM_Prop_ToiletBrush_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_ToiletBrush_Stick_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Toilet_01
+    Mesh Name: SM_Prop_Toilet_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Toilet_01_Lid
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Toilet_01_Seat
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Toilet_02
+    Mesh Name: SM_Prop_Toilet_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Toilet_02_Lid
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Toilet_02_Seat
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_ToolBoard_01
+    Mesh Name: SM_Prop_ToolBoard_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_ToolBoard_01_Combined
+    Mesh Name: SM_Prop_ToolBoard_01_Combined
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_ToolCabinet_01
+    Mesh Name: SM_Prop_ToolCabinet_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_TowelRack_01
+    Mesh Name: SM_Prop_TowelRack_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_TowelRack_02
+    Mesh Name: SM_Prop_TowelRack_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_ToyBlock_01
+    Mesh Name: SM_Prop_ToyBlock_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_ToyBlock_02
+    Mesh Name: SM_Prop_ToyBlock_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_ToyBlock_03
+    Mesh Name: SM_Prop_ToyBlock_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_ToyTrain_01
+    Mesh Name: SM_Prop_ToyTrain_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Trampoline_01
+    Mesh Name: SM_Prop_Trampoline_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_TrashBag_01
+    Mesh Name: SM_Prop_TrashBag_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_TrashBag_02
+    Mesh Name: SM_Prop_TrashBag_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_TVCabinet_01
+    Mesh Name: SM_Prop_TVCabinet_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_TVCabinet_01_Door_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_TVCabinet_01_Door_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_TVCabinet_01_Door_03
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_TVCabinet_01_Door_04
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_TVCabinet_01_Combined
+    Mesh Name: SM_Prop_TVCabinet_01_Combined
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_TVCabinet_02
+    Mesh Name: SM_Prop_TVCabinet_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_TVCabinet_02_Door_01
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_TVCabinet_02_Door_02
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_TVCabinet_02_Combined
+    Mesh Name: SM_Prop_TVCabinet_02_Combined
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: Base_Glass (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_VendingMachine_01
+    Mesh Name: SM_Prop_VendingMachine_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_WallLight_01
+    Mesh Name: SM_Prop_WallLight_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Wardrobe_01
+    Mesh Name: SM_Prop_Wardrobe_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Wardrobe_01_Door_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Wardrobe_01_Door_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Wardrobe_01_Drawer_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Wardrobe_01_Drawer_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Wardrobe_01_Drawer_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Wardrobe_01_Combined
+    Mesh Name: SM_Prop_Wardrobe_01_Combined
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Wardrobe_02
+    Mesh Name: SM_Prop_Wardrobe_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Wardrobe_02_Door_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Wardrobe_02_Door_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Wardrobe_02_Combined
+    Mesh Name: SM_Prop_Wardrobe_02_Combined
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_WashingLine_01
+    Mesh Name: SM_Prop_WashingLine_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_WashingLine_02
+    Mesh Name: SM_Prop_WashingLine_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_WashingLine_03
+    Mesh Name: SM_Prop_WashingLine_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_WashingLine_04
+    Mesh Name: SM_Prop_WashingLine_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_WashingLine_05
+    Mesh Name: SM_Prop_WashingLine_05
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Wheelbarrow_01
+    Mesh Name: SM_Prop_Wheelbarrow_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Prop_Wheelbarrow_Wheel_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_Workbench_01
+    Mesh Name: SM_Prop_Workbench_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_WorkShelf_01
+    Mesh Name: SM_Prop_WorkShelf_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Prop_WorkShelf_01_Combined
+    Mesh Name: SM_Prop_WorkShelf_01_Combined
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+-------------------
+Folder Name: Vehicles
+-------------------
+Prefab Name: SM_Veh_Bus_01
+    Mesh Name: SM_Veh_Bus_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Bus_Door_01
+        Slot: PolygonTown_01_A_TEMP (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Bus_Door_01_Glass
+        Slot: Veh_Glass (No Albedo Texture)
+    Mesh Name: SM_Veh_Bus_Door_02
+        Slot: PolygonTown_01_A_TEMP (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Bus_Door_02_Glass
+        Slot: Veh_Glass (No Albedo Texture)
+    Mesh Name: SM_Veh_Bus_Door_03
+        Slot: PolygonTown_01_A_TEMP (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Bus_Door_03_Glass
+        Slot: Veh_Glass (No Albedo Texture)
+    Mesh Name: SM_Veh_Bus_Door_04
+        Slot: PolygonTown_01_A_TEMP (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Bus_Door_04_Glass
+        Slot: Veh_Glass (No Albedo Texture)
+    Mesh Name: SM_Veh_Bus_Glass
+        Slot: Veh_Glass (No Albedo Texture)
+    Mesh Name: SM_Veh_Bus_SteeringW
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Bus_Wheel_fl
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Bus_Wheel_fr
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Bus_Wheel_rl
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Bus_Wheel_rr
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Veh_Convertable_01
+    Mesh Name: SM_Veh_Convertable_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Convertable_Glass
+        Slot: Veh_Glass (No Albedo Texture)
+    Mesh Name: SM_Veh_Convertable_SteeringW
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Convertable_Wheel_fl
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Convertable_Wheel_fr
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Convertable_Wheel_rl
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Convertable_Wheel_rr
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Veh_Firetruck_01
+    Mesh Name: SM_Veh_Firetruck_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Firetruck_Glass
+        Slot: Veh_Glass (No Albedo Texture)
+    Mesh Name: SM_Veh_Firetruck_Hose_Nozzle
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Firetruck_Ladder_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Firetruck_Ladder_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Firetruck_Ladder_Base
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Firetruck_SteeringW
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Firetruck_Wheel_fl
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Firetruck_Wheel_fr
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Firetruck_Wheel_rl
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Firetruck_Wheel_rr
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Veh_Pickup_01
+    Mesh Name: SM_Veh_Pickup_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Pickup_Glass
+        Slot: Veh_Glass (No Albedo Texture)
+    Mesh Name: SM_Veh_Pickup_SteeringW
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Pickup_Wheel_fl
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Pickup_Wheel_fr
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Pickup_Wheel_rl
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Pickup_Wheel_rr
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Veh_SchoolBus_01
+    Mesh Name: SM_Veh_SchoolBus_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_SchoolBus_Door_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_SchoolBus_Door_01_Glass
+        Slot: Veh_Glass (No Albedo Texture)
+    Mesh Name: SM_Veh_SchoolBus_Door_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_SchoolBus_Door_02_Glass
+        Slot: Veh_Glass (No Albedo Texture)
+    Mesh Name: SM_Veh_SchoolBus_Glass
+        Slot: Veh_Glass (No Albedo Texture)
+    Mesh Name: SM_Veh_SchoolBus_Sign_l
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_SchoolBus_Sign_r
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_SchoolBus_SteeringW
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_SchoolBus_Wheel_fl
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_SchoolBus_Wheel_fr
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_SchoolBus_Wheel_rl
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_SchoolBus_Wheel_rr
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Veh_Truck_01
+    Mesh Name: SM_Veh_Truck_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Attachment_Delivery_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Attachment_Delivery_Door_L
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Attachment_Delivery_Door_R
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Attachment_Flatbed_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Attachment_Garbage_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Attachment_Garbage_Lid
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Attachment_Garbage_Pile
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Glass
+        Slot: Veh_Glass (No Albedo Texture)
+    Mesh Name: SM_Veh_Truck_SteeringW
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Wheel_fl
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Wheel_fr
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Wheel_rl_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Wheel_rl_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Wheel_rr_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Wheel_rr_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Veh_Truck_Delivery_01
+    Mesh Name: SM_Veh_Truck_Delivery_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Attachment_Delivery_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Attachment_Delivery_Door_L
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Attachment_Delivery_Door_R
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Attachment_Flatbed_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Attachment_Garbage_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Attachment_Garbage_Lid
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Attachment_Garbage_Pile
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Glass
+        Slot: Veh_Glass (No Albedo Texture)
+    Mesh Name: SM_Veh_Truck_SteeringW
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Wheel_fl
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Wheel_fr
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Wheel_rl_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Wheel_rl_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Wheel_rr_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Wheel_rr_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Veh_Truck_Garbage_01
+    Mesh Name: SM_Veh_Truck_Garbage_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Attachment_Delivery_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Attachment_Delivery_Door_L
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Attachment_Delivery_Door_R
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Attachment_Flatbed_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Attachment_Garbage_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Attachment_Garbage_Lid
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Attachment_Garbage_Pile
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Glass
+        Slot: Veh_Glass (No Albedo Texture)
+    Mesh Name: SM_Veh_Truck_SteeringW
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Wheel_fl
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Wheel_fr
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Wheel_rl_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Wheel_rl_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Wheel_rr_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Wheel_rr_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+-------------------
+Folder Name: Presets
+-------------------
+Prefab Name: SM_Bld_House_Preset_01
+    Mesh Name: SM_Bld_House_Preset_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: Window_Glass_Opaque (PolygonTown_Window_01)
+
+Prefab Name: SM_Bld_House_Preset_02
+    Mesh Name: SM_Bld_House_Preset_02
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: Window_Glass_Opaque (PolygonTown_Window_01)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
+Prefab Name: SM_Bld_House_Preset_03
+    Mesh Name: SM_Bld_House_Preset_03
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: Window_Glass_Opaque (PolygonTown_Window_01)
+
+Prefab Name: SM_Bld_House_Preset_04
+    Mesh Name: SM_Bld_House_Preset_04
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: Window_Glass_Opaque (PolygonTown_Window_01)
+
+Prefab Name: SM_Bld_House_Preset_05
+    Mesh Name: SM_Bld_House_Preset_05
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: Window_Glass_Opaque (PolygonTown_Window_01)
+
+Prefab Name: SM_Bld_House_Preset_06
+    Mesh Name: SM_Bld_House_Preset_06
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: Window_Glass_Opaque (PolygonTown_Window_01)
+
+Prefab Name: SM_Bld_House_Preset_07
+    Mesh Name: SM_Bld_House_Preset_07
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: Window_Glass_Opaque (PolygonTown_Window_01)
+
+Prefab Name: SM_Bld_House_Preset_08
+    Mesh Name: SM_Bld_House_Preset_08
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: Window_Glass_Opaque (PolygonTown_Window_01)
+
+Prefab Name: SM_Bld_House_Preset_09
+    Mesh Name: SM_Bld_House_Preset_09
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: Window_Glass_Opaque (PolygonTown_Window_01)
+
+Prefab Name: SM_Bld_House_Preset_10
+    Mesh Name: SM_Bld_House_Preset_10
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: Window_Glass_Opaque (PolygonTown_Window_01)
+
+Prefab Name: SM_Bld_House_Preset_11
+    Mesh Name: SM_Bld_House_Preset_11
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: Window_Glass_Opaque (PolygonTown_Window_01)
+
+Prefab Name: SM_Bld_House_Preset_Garage_01
+    Mesh Name: SM_Bld_House_Preset_Garage_01
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+        Slot: PolygonTown_01_A (PolygonTown_Texture_01_A)
+
