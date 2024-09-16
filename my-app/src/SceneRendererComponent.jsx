@@ -46,6 +46,20 @@ const onRender = (scene) => {
   }
 };
 
+const onUserInput = (scene, input) => {
+  if (input == 'right') {
+    const deltaTimeInMillis = scene.getEngine().getDeltaTime();
+
+    const rpm = 10;
+    box.rotation.y += (rpm / 60) * Math.PI * 2 * (deltaTimeInMillis / 1000);
+  } else if (input == 'left') {
+    const deltaTimeInMillis = scene.getEngine().getDeltaTime();
+
+    const rpm = 10;
+    box.rotation.y -= (rpm / 60) * Math.PI * 2 * (deltaTimeInMillis / 1000);
+  }
+};
+
 export default () => (
   <div>
     <SceneComponent antialias onSceneReady={onSceneReady} onRender={onRender} id="my-canvas" />
