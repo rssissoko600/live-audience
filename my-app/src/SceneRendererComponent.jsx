@@ -1,5 +1,5 @@
 import React from "react";
-import { FreeCamera, Vector3, HemisphericLight, MeshBuilder, SceneLoader, appendSceneAsync } from "@babylonjs/core";
+import { FreeCamera, Vector3, HemisphericLight, MeshBuilder, SceneLoader, appendSceneAsync, loadSceneAsync } from "@babylonjs/core";
 import SceneComponent from "./SceneComponent"; // uses above component in same directory
 // import SceneComponent from 'babylonjs-hook'; // if you install 'babylonjs-hook' NPM.
 import "./App.css";
@@ -10,7 +10,7 @@ import "@babylonjs/loaders";
 let box;
 let rpm;
 
-const onSceneReady = (scene) => {
+const onSceneReady = async (scene) => {
   // This creates and positions a free camera (non-mesh)
   const camera = new FreeCamera("camera1", new Vector3(0, 5, -10), scene);
 
@@ -28,16 +28,12 @@ const onSceneReady = (scene) => {
   // Default intensity is 1. Let's dim the light a small amount
   light.intensity = 0.7;
 
-  // Our built-in 'box' shape.
-  box = MeshBuilder.CreateBox("box", { size: 2 }, scene);
+  await appendSceneAsync("Scene/Auditorium.obj", scene);
 
-  // Move the box upward 1/2 its height
-  box.position.y = 1;
-
-  // Our built-in 'ground' shape.
-  MeshBuilder.CreateGround("ground", { width: 6, height: 6 }, scene);
-
-  appendSceneAsync("Scene/Auditorium.obj", scene)
+  SceneLoader.ImportMeshAsync("", "Scene/", "Auditorium.obj").then((result) => {
+    console.log(result);
+  });
+  // SceneLoader.ImportMesh("", "Scene/", "Auditorium.obj");
 
 };
 
