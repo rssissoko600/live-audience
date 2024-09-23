@@ -29,18 +29,16 @@ const onSceneReady = async (scene) => {
   // Default intensity is 1. Let's dim the light a small amount
   light.intensity = 0.7;
 
-  // await appendSceneAsync("Scene/Auditorium.obj", scene).then((result) => {
-  //   console.log(result);
-  // });
-
   await SceneLoader.ImportMeshAsync("", "Scene/", "Auditorium.obj").then((result) => {
     console.log(result);
     result.meshes[0].scaling = new Vector3(1, 1, 1);
 
   });
 
-  // SceneLoader.ImportMesh("", "Scene/", "Auditorium.obj");
-
+  await SceneLoader.ImportMeshAsync("", "Characters/", "character.glb").then((result) => {
+    console.log(result);
+    result.meshes[0].scaling = new Vector3(5, 5, 5);
+  });
 };
 
 /**
