@@ -1,8 +1,11 @@
 import React from "react";
-import { FreeCamera, Vector3, HemisphericLight, MeshBuilder } from "@babylonjs/core";
+import { FreeCamera, Vector3, HemisphericLight, MeshBuilder, SceneLoader, appendSceneAsync } from "@babylonjs/core";
 import SceneComponent from "./SceneComponent"; // uses above component in same directory
 // import SceneComponent from 'babylonjs-hook'; // if you install 'babylonjs-hook' NPM.
 import "./App.css";
+import "@babylonjs/loaders/OBJ/objFileLoader";
+import "@babylonjs/loaders/glTF";
+import "@babylonjs/loaders";
 
 let box;
 let rpm;
@@ -33,6 +36,9 @@ const onSceneReady = (scene) => {
 
   // Our built-in 'ground' shape.
   MeshBuilder.CreateGround("ground", { width: 6, height: 6 }, scene);
+
+  appendSceneAsync("Scene/Auditorium.obj", scene)
+
 };
 
 /**
