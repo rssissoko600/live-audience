@@ -13,7 +13,7 @@ let audi;
 
 const onSceneReady = async (scene) => {
   // This creates and positions a free camera (non-mesh)
-  const camera = new FreeCamera("camera1", new Vector3(-15, 15, 0), scene);
+  const camera = new FreeCamera("camera1", new Vector3(-10, 10, 0), scene);
 
   // This targets the camera to scene origin
   camera.setTarget(Vector3.Zero());
@@ -35,10 +35,34 @@ const onSceneReady = async (scene) => {
 
   });
 
-  await SceneLoader.ImportMeshAsync("", "Characters/", "character.glb").then((result) => {
-    console.log(result);
-    result.meshes[0].scaling = new Vector3(5, 5, 5);
+  // await SceneLoader.ImportMeshAsync("", "Characters/", "character.glb").then((result) => {
+  //   console.log(result);
+  //   result.meshes[1].position = new Vector3(-2, 1, 1);  
+  //   result.meshes[1].rotation = new Vector3(0, 1.5, 0);  
+  //   result.meshes[0].scaling = new Vector3(0.5, 0.5, 0.5);
+  // });
+
+  await SceneLoader.ImportMeshAsync("", "Characters/", "sitting-idle.glb").then((result) => {
+    result.meshes[0].position = new Vector3(7, -3, 3);  
+    result.meshes[0].rotation = new Vector3(0, -1.5, 0); 
+    result.meshes[0].scaling = new Vector3(1, 1, 1);
   });
+
+  for(let i = 0; i < 7; i++) {
+  await SceneLoader.ImportMeshAsync("", "Characters/", "sitting-idle.glb").then((result) => {
+    result.meshes[0].position = new Vector3(7, -3, 3 - i);  
+    result.meshes[0].rotation = new Vector3(0, -1.5, 0); 
+    result.meshes[0].scaling = new Vector3(1, 1, 1);
+  });
+  }
+
+  // for (let i = 0; i < 10; i++) {
+  //   await SceneLoader.ImportMeshAsync("", "Characters/", "sitting-idle.glb").then((result) => {
+  //     result.meshes[0].position = new Vector3(0, 2, 1 + i);  
+  //     result.meshes[0].rotation = new Vector3(0, -1.5, 0); 
+  //     result.meshes[0].scaling = new Vector3(1, 1, 1);
+  //   });
+  // }
 };
 
 /**
@@ -58,6 +82,6 @@ const onRender = async (scene) => {
 export default (props) => (
   rpm = props.data,
   <div>
-    <SceneComponent antialias onSceneReady={onSceneReady} onRender={onRender} id="my-canvas" width="750" height="500" />
+    <SceneComponent antialias onSceneReady={onSceneReady} onRender={onRender} id="my-canvas" width="1300" height="650" />
   </div>
 );
