@@ -38,9 +38,9 @@ const onSceneReady = async (scene) => {
   for(let i = 0; i < 8; i++) {
     for(let j = 0; j < 7 + i; j++) {
       await SceneLoader.ImportMeshAsync("", "Characters/", "character.babylon").then((result) => {
+        result.meshes[0].scaling = new Vector3(0.01, 0.01, 0.01);
         result.meshes[0].position = new Vector3(7 + i, -3 + i/2, 3 + i/2 - j);  
-        result.meshes[0].rotation = new Vector3(0, -1.5, 0); 
-        result.meshes[0].scaling = new Vector3(1, 1, 1);
+        result.meshes[0].rotation = new Vector3(-1.5, 1.5, 0); 
         });
     }
   }
