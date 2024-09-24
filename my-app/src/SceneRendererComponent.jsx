@@ -13,7 +13,7 @@ let audi;
 
 const onSceneReady = async (scene) => {
   // This creates and positions a free camera (non-mesh)
-  const camera = new FreeCamera("camera1", new Vector3(-10, 10, 0), scene);
+  const camera = new FreeCamera("camera1", new Vector3(-5, 0, 0), scene);
 
   // This targets the camera to scene origin
   camera.setTarget(Vector3.Zero());
@@ -35,34 +35,16 @@ const onSceneReady = async (scene) => {
 
   });
 
-  // await SceneLoader.ImportMeshAsync("", "Characters/", "character.glb").then((result) => {
-  //   console.log(result);
-  //   result.meshes[1].position = new Vector3(-2, 1, 1);  
-  //   result.meshes[1].rotation = new Vector3(0, 1.5, 0);  
-  //   result.meshes[0].scaling = new Vector3(0.5, 0.5, 0.5);
-  // });
-
-  await SceneLoader.ImportMeshAsync("", "Characters/", "sitting-idle.glb").then((result) => {
-    result.meshes[0].position = new Vector3(7, -3, 3);  
-    result.meshes[0].rotation = new Vector3(0, -1.5, 0); 
-    result.meshes[0].scaling = new Vector3(1, 1, 1);
-  });
-
-  for(let i = 0; i < 7; i++) {
-  await SceneLoader.ImportMeshAsync("", "Characters/", "sitting-idle.glb").then((result) => {
-    result.meshes[0].position = new Vector3(7, -3, 3 - i);  
-    result.meshes[0].rotation = new Vector3(0, -1.5, 0); 
-    result.meshes[0].scaling = new Vector3(1, 1, 1);
-  });
+  for(let i = 0; i < 8; i++) {
+    for(let j = 0; j < 7 + i; j++) {
+      await SceneLoader.ImportMeshAsync("", "Characters/", "character.babylon").then((result) => {
+        result.meshes[0].position = new Vector3(7 + i, -3 + i/2, 3 + i/2 - j);  
+        result.meshes[0].rotation = new Vector3(0, -1.5, 0); 
+        result.meshes[0].scaling = new Vector3(1, 1, 1);
+        });
+    }
   }
 
-  // for (let i = 0; i < 10; i++) {
-  //   await SceneLoader.ImportMeshAsync("", "Characters/", "sitting-idle.glb").then((result) => {
-  //     result.meshes[0].position = new Vector3(0, 2, 1 + i);  
-  //     result.meshes[0].rotation = new Vector3(0, -1.5, 0); 
-  //     result.meshes[0].scaling = new Vector3(1, 1, 1);
-  //   });
-  // }
 };
 
 /**
@@ -74,8 +56,6 @@ const onRender = async (scene) => {
     
   //   box.rotation.y += (rpm / 60) * Math.PI * 2 * (deltaTimeInMillis / 1000);
   // }
-
-  // console.log(audi.meshes);
 
 };
 
