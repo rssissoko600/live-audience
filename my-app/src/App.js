@@ -1,11 +1,22 @@
-import logo from './logo.svg';
+import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import './App.css';
 import SceneRendererComponent from './SceneRendererComponent';
 import Dictaphone from './SpeechRecognitionComponent';
 import React, { Component } from 'react';
 
 
-class App extends Component {
+// Landing Page Component
+const LandingPage = () => (
+  <div className="landing-page">
+    <h1>Welcome to the App</h1>
+    <p>Click the button below to start the Speech Recognition Test!</p>
+    <Link to="/test">
+      <button className="start-btn">Go to Test</button>
+    </Link>
+  </div>
+);
+
+class SpeechRecognitionTest extends React.Component {
 
   constructor(props) {
     super(props);
@@ -36,5 +47,17 @@ class App extends Component {
     );
   }
 }
+
+const App = () => (
+  <Router>
+    <Routes>
+      {/* Define the route for the landing page */}
+      <Route path="/" element={<LandingPage />} />
+      
+      {/* Define the route for the speech recognition test */}
+      <Route path="/test" element={<SpeechRecognitionTest />} />
+    </Routes>
+  </Router>
+);
 
 export default App;
