@@ -12,7 +12,8 @@ class App extends Component {
     this.state = { pose: "sitting", scene: undefined};
   }
 
-  newMove = (newMove) => {
+  newMove = (newMove, props) => {
+    this.state = { pose: newMove};
     this.setState({ pose: newMove });
   }
   
@@ -28,7 +29,7 @@ class App extends Component {
           
           <Dictaphone newMove={this.newMove}/>
 
-          <SceneRendererComponent data={this.state.pose} scene={this.state.scene} newScene={this.newScene}/>
+          <SceneRendererComponent data={this.state.pose} scene={this.state.scene} newMove={this.newMove} newScene={this.newScene}/>
 
         </header>
       </div>

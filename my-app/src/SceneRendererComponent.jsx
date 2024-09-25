@@ -6,12 +6,15 @@ import "./App.css";
 
 import "@babylonjs/loaders/OBJ/objFileLoader";
 import "@babylonjs/loaders";
+import * as BABYLON from '@babylonjs/core';
 
 let skeletons = [];
 let move;
 let exportscene;
 
 const onSceneReady = async (scene, props) => {
+  BABYLON.Animation.AllowMatricesInterpolation = true;
+
   // This creates and positions a free camera (non-mesh)
   const camera = new FreeCamera("camera1", new Vector3(-5, 0, 0), scene);
 
@@ -47,6 +50,14 @@ const onSceneReady = async (scene, props) => {
         result.meshes[1].rotation = new Vector3(-1.5, 1.5, 0); 
 
         var idleRange = skeleton.getAnimationRange(move);
+        // console.log("idle range:", idleRange)
+        // console.log("movement:", move)
+
+        skeleton.animationPropertiesOverride = new BABYLON.AnimationPropertiesOverride();
+        skeleton.animationPropertiesOverride.enableBlending = true;
+        skeleton.animationPropertiesOverride.blendingSpeed = 0.05;
+        skeleton.animationPropertiesOverride.loopMode = 1;
+
         scene.beginAnimation(skeleton, idleRange.from, idleRange.to, true);
         });
     }
@@ -80,7 +91,8 @@ export default (props) => (
       skeletons.forEach(skel => {
         var skeleton = skel.skeletons[0];
         var idleRange = skeleton.getAnimationRange(move);
-        exportscene.beginAnimation(skel, idleRange.from, idleRange.to, true);
+         // good has changed the newmove to cheering but scene loader has yet to change animation
+        exportscene.beginAnimation(skeleton, idleRange.from, idleRange.to, true); // skeleton not skel
       });
     }
   }, [move, exportscene]),
