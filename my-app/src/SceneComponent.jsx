@@ -1,7 +1,9 @@
 import { useEffect, useRef } from "react";
 import { Engine, Scene } from "@babylonjs/core";
 
-export default ({ antialias, engineOptions, adaptToDeviceRatio, sceneOptions, onRender, onSceneReady, ...rest }) => {
+let propsRef;
+
+export default ({ props, antialias, engineOptions, adaptToDeviceRatio, sceneOptions, onRender, onSceneReady, ...rest }) => {
   const reactCanvas = useRef(null);
 
   // set up basic engine and scene
@@ -12,6 +14,8 @@ export default ({ antialias, engineOptions, adaptToDeviceRatio, sceneOptions, on
 
     const engine = new Engine(canvas, antialias, engineOptions, adaptToDeviceRatio);
     const scene = new Scene(engine, sceneOptions);
+    props.newScene(scene)
+
     if (scene.isReady()) {
       onSceneReady(scene);
     } else {

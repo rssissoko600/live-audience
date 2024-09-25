@@ -9,23 +9,26 @@ class App extends Component {
 
   constructor(props) {
     super(props);
-    this.state = { rpm: 10 };
+    this.state = { pose: "sitting", scene: undefined};
   }
 
-  newRPM = (newRPM) => {
-    this.setState({rpm: newRPM});
+  newMove = (newMove) => {
+    this.setState({ pose: newMove });
   }
   
+  newScene = (newScene) => {
+    this.setState({ scene: newScene });
+  }
+
   render() {
     return (
       <div className="App">
         <header className="App-header">
           <p>Speech Recognition Test</p>
-          <p>RPM: {this.state.rpm}</p>
           
-          <Dictaphone newRPM={this.newRPM}/>
+          <Dictaphone newMove={this.newMove}/>
 
-          <SceneRendererComponent data={this.state.rpm}/>
+          <SceneRendererComponent data={this.state.pose} scene={this.state.scene} newScene={this.newScene}/>
 
         </header>
       </div>
