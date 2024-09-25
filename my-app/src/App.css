@@ -41,7 +41,7 @@
 /* Global Styles */
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: #2C2F33;
+  background-color: #ffff;
   color: #FFF;
   margin: 0;
   padding: 0;
@@ -54,7 +54,7 @@ body {
 /* Landing Page Styles */
 .landing-page {
   text-align: center;
-  background-color: #23272A;
+  background-color: #ffff;
   padding: 50px;
   border-radius: 10px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
@@ -75,7 +75,8 @@ body {
   padding: 15px 30px;
   font-size: 1rem;
   font-weight: bold;
-  background-color: #43B581;
+  font-family: "Rockwell";
+  background-color: #02155a;
   color: white;
   border: none;
   border-radius: 8px;
@@ -84,7 +85,7 @@ body {
 }
 
 .start-btn:hover {
-  background-color: #3ba16e;
+  background-color: #02155a;
   transform: translateY(-3px);
 }
 

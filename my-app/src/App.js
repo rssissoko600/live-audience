@@ -8,10 +8,11 @@ import React, { Component } from 'react';
 // Landing Page Component
 const LandingPage = () => (
   <div className="landing-page">
-    <h1>Welcome to the App</h1>
+    <title>Live Audience | proto</title>
+    <img src="/Images/trans_l_a_logo.png" alt="LA Logo" name="logo"/>
     <p>Click the button below to start the Speech Recognition Test!</p>
     <Link to="/test">
-      <button className="start-btn">Go to Test</button>
+      <button className="start-btn">Join Now</button>
     </Link>
   </div>
 );
