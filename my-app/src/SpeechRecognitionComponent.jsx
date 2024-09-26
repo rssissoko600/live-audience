@@ -15,14 +15,6 @@ const Dictaphone = (props) => {
 
   const dictoryCheck = () => {
 
-    // if(/\bgood\b/i.test(transcript)) {
-    //   props.newMove('cheering');
-    // }
-
-    // if(/\bbad\b/i.test(transcript)) {
-    //   props.newMove('disbelief');
-    // }
-
     const wordActions = new Map([
       ['good', 'cheering'],
       ['bad', 'disbelief'],
@@ -46,12 +38,12 @@ const Dictaphone = (props) => {
 
   return (
     <div>
-      <p>Microphone: {listening ? 'on' : 'off'}</p>
-      <button onClick={SpeechRecognition.startListening}>Start</button>
-      <button onClick={SpeechRecognition.stopListening}>Stop</button>
-      <button onClick={dictoryCheck}>Change Move</button>
-      <button onClick={resetTranscript}>Reset</button>
-      <p>{transcript}</p>
+      <p >Microphone: {listening ? 'on' : 'off'}</p>
+      <div style={{paddingBottom:'10px'}}>
+        <button onClick={SpeechRecognition.startListening}>Start</button>
+        <button onClick={SpeechRecognition.stopListening}>Stop</button>
+      </div>
+      {dictoryCheck()}
     </div>
   );
 };
