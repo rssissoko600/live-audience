@@ -24,7 +24,7 @@ class SpeechRecognitionTest extends React.Component {
     return (
       <div className="App">
         <header className="App-header">
-          <p>Speech Recognition Test</p>
+          <h1>Live Audience</h1>
           
           {/* Dictaphone updates the pose via newMove */}
           <Dictaphone newMove={this.newMove} />
