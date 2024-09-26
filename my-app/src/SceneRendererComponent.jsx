@@ -32,7 +32,7 @@ const onSceneReady = async (scene, props) => {
   // Default intensity is 1. Let's dim the light a small amount
   light.intensity = 0.7;
 
-  await SceneLoader.ImportMeshAsync("", "Scene/", "Auditorium.obj").then((result) => {
+  await SceneLoader.ImportMeshAsync("", "Scene/", "Auditorium.glb").then((result) => {
     result.meshes[0].scaling = new Vector3(1, 1, 1);
   });
 
