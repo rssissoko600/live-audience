@@ -46,30 +46,19 @@ const Dictaphone = (props) => {
   }
 
   return (
-    // <div>
-    //   <p>Microphone: {listening ? 'on' : 'off'}</p>
-    //   <button onClick={SpeechRecognition.startListening}>Start</button>
-    //   <button onClick={SpeechRecognition.stopListening}>Stop</button>
-    //   <button onClick={dictoryCheck}>Change Move</button>
-    //   <button onClick={resetTranscript}>Reset</button>
-    //   <p>{transcript}</p>
-    // </div>
 
-    <div class="container">
-    <div class="small-text"> 
+    <div className="container">
       <p>Microphone: {listening ? 'ON' : 'OFF'}</p>
+    <div className="controls">
+        <button onClick={SpeechRecognition.startListening} className="control-button" id="start"> Start</button>
+        <div className="divider"/>
+        <button onClick={SpeechRecognition.stopListening} className="control-button" id="stop">Stop</button>
+        <div className="divider"/>
+        <button onClick={dictoryCheck} className="control-button" id="change-move">Change Move</button>
+        <div className="divider"/>
+        <button onClick={resetTranscript} className="control-button" id="reset">Reset</button>
     </div>
-    
-    <div class="controls">
-        <button onClick={SpeechRecognition.startListening} class="control-button" id="start"> Start</button>
-        <div class="divider"/>
-        <button onClick={SpeechRecognition.stopListening} class="control-button" id="stop">Stop</button>
-        <div class="divider"/>
-        <button onClick={dictoryCheck} class="control-button" id="change-move">Change Move</button>
-        <div class="divider"/>
-        <button onClick={resetTranscript} class="control-button" id="reset">Reset</button>
-    </div>
-    <div class="transcript" id="transcript">Transcript will appear here... <br></br> {transcript}</div>
+    <div className="transcript" id="transcript">Transcript will appear here... <br></br> {transcript}</div>
     </div>
   );
 };
