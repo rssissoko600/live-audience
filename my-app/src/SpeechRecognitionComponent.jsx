@@ -42,9 +42,9 @@ const Dictaphone = (props) => {
     <div className="container">
       <p>Microphone: {listening ? 'ON' : 'OFF'}</p>
     <div className="controls">
-        <button onClick={SpeechRecognition.startListening} class="control-button" id="start"> Start</button>
+        <button onClick={SpeechRecognition.startListening} className="control-button" id="start"> Start</button>
         <div className="divider"/>
-        <button onClick={SpeechRecognition.stopListening} class="control-button" id="stop">Stop</button>
+        <button onClick={SpeechRecognition.stopListening} className="control-button" id="stop">Stop</button>
         <div className="divider"/>
         <button onClick={resetTranscript} className="control-button" id="reset">Reset</button>
     </div>
