@@ -14,13 +14,25 @@ const Dictaphone = (props) => {
   }
 
   const dictoryCheck = () => {
-    
-    if(transcript.match("good")) {
-      props.newMove("cheering");
-    }
 
-    if(transcript.match("bad")) {
-      props.newMove("disbelief");
+    // if(/\bgood\b/i.test(transcript)) {
+    //   props.newMove('cheering');
+    // }
+
+    // if(/\bbad\b/i.test(transcript)) {
+    //   props.newMove('disbelief');
+    // }
+
+    const words = transcript.split(/\s+/);
+
+    for (const word of words) {
+      if(word.localeCompare('good', undefined, { sensitivity: 'base' })==0) {
+        props.newMove('cheering');
+      }
+
+      if(word.localeCompare('bad', undefined, { sensitivity: 'base' })==0) {
+        props.newMove('disbelief');
+      }
     }
   }
 
