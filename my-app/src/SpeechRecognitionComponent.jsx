@@ -14,13 +14,33 @@ const Dictaphone = (props) => {
   }
 
   const dictoryCheck = () => {
-    
-    if(transcript.match("good")) {
-      props.newMove("cheering");
-    }
 
-    if(transcript.match("bad")) {
-      props.newMove("disbelief");
+    // if(/\bgood\b/i.test(transcript)) {
+    //   props.newMove('cheering');
+    // }
+
+    // if(/\bbad\b/i.test(transcript)) {
+    //   props.newMove('disbelief');
+    // }
+
+    const wordActions = new Map([
+      ['good', 'cheering'],
+      ['bad', 'disbelief'],
+      ['calm', 'sitting'],
+      ['no', 'dissaproval'],
+      ['slow', 'clapping2'], // crashed the app??
+      ['applause', 'clapping1']
+      // Add more word-action pairs here
+    ]);
+
+    const words = transcript.split(/\s+/);
+
+    const actionKey = Array.from(wordActions.keys()).find(key =>
+      words.some(word => word.localeCompare(key, undefined, { sensitivity: 'base' }) === 0)
+    );
+  
+    if (actionKey) {
+      props.newMove(wordActions.get(actionKey));
     }
   }
 

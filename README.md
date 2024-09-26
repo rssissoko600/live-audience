@@ -27,7 +27,7 @@ Follow these steps to set up the project locally:
 2. **Navigate to the Project Directory**
 
     ```bash
-    cd live-audience
+    cd live-audience/my-app
     ```
 
 3. **Install Dependencies**
