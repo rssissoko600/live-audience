@@ -41,13 +41,17 @@ const onSceneReady = async (scene, props) => {
       await SceneLoader.ImportMeshAsync("", "Characters/", "character2.babylon").then((result) => {
         var skeleton = result.skeletons[0];
         skeletons.push(result);
-        result.meshes[0].scaling = new Vector3(0.01, 0.01, 0.01);
-        result.meshes[0].position = new Vector3(7 + i, -3 + i/2, 3 + i/2 - j);  
-        result.meshes[0].rotation = new Vector3(-1.5, 1.5, 0); 
+        var scalingStart = new Vector3(0.01, 0.01, 0.01);
+        var positionStart = new Vector3(7,-3,3);
+        var positionAdd = new Vector3(i, i/2, i/2 -j);
+        var rotationStart = new Vector3(-1.5,1.5,0);
+        result.meshes[0].scaling = scalingStart;
+        result.meshes[0].position = positionStart.add(positionAdd);
+        result.meshes[0].rotation = rotationStart;
         
-        result.meshes[1].scaling = new Vector3(0.01, 0.01, 0.01);
-        result.meshes[1].position = new Vector3(7 + i, -3 + i/2, 3 + i/2 - j);  
-        result.meshes[1].rotation = new Vector3(-1.5, 1.5, 0); 
+        result.meshes[1].scaling = scalingStart;
+        result.meshes[1].position = positionStart.add(positionAdd);
+        result.meshes[1].rotation = rotationStart;
 
         var idleRange = skeleton.getAnimationRange(move);
         // console.log("idle range:", idleRange)
