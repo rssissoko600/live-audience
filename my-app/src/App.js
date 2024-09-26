@@ -3,18 +3,7 @@ import './App.css';
 import SceneRendererComponent from './SceneRendererComponent';
 import Dictaphone from './SpeechRecognitionComponent';
 import React from 'react';
-
-
-// Landing Page Component
-const LandingPage = () => (
-  <div className="landing-page">
-    <h1>Welcome to the App</h1>
-    <p>Click the button below to start the Speech Recognition Test!</p>
-    <Link to="/test">
-      <button className="start-btn">Go to Test</button>
-    </Link>
-  </div>
-);
+import LandingPage from './LandingPageComponent';
 
 class SpeechRecognitionTest extends React.Component {
   constructor(props) {
@@ -35,7 +24,7 @@ class SpeechRecognitionTest extends React.Component {
     return (
       <div className="App">
         <header className="App-header">
-          <p>Speech Recognition Test</p>
+          <h1>Live Audience</h1>
           
           {/* Dictaphone updates the pose via newMove */}
           <Dictaphone newMove={this.newMove} />

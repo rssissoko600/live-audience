@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Rockwell";
+    /* background-color: #02155a; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+p {
+    padding-top: 10px;
+    color: #02155a;
+}
+
+.container {
+    text-align: center;
+}
+
+.control-button {
+    padding: 10px 15px;
+    border: none;
+    background-color: #02155a;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+/* Transcript Styles */
+.transcript {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #fff;
+    border-radius: 8px;
+    background-color: #fff;
+    max-width: 300px;
+    height: 80px;
+    overflow-y: auto;
+    font-size: 14px;
+    color: #333;
+}
+
+.divider{
+    width: 10px;
+    height: auto;
+    display: inline-block;
+}
+/* Responsive Styles */
+@media (max-width: 600px) {
+    .microphone {
+        width: 80px;
+        height: 180px;
+    }
+    
+    .mic-head {
+        width: 50px;
+        height: 30px;
+    }
+    
+    .mic-body {
+        width: 30px;
+        height: 60px;
+    }
+    
+    .mic-stand {
+        height: 70px;
+    }
+    
+    .control-button {
+        padding: 8px 12px;
+    }
+    
+    .transcript {
+        max-width: 100%;
+        font-size: 12px;
+    }
+}

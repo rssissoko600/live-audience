@@ -137,6 +137,6 @@ export default (props) => (
     }
   }, [move, exportscene]),
   <div>
-    <SceneComponent antialias props={props} onSceneReady={onSceneReady} onRender={onRender} id="my-canvas" width="1300" height="650" />
+    <SceneComponent antialias props={props} onSceneReady={onSceneReady} onRender={onRender} id="my-canvas" width="1500" height="700" />
   </div>
 );
