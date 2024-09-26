@@ -1,0 +1,41 @@
+/* Landing Page Styles */
+.landing-page {
+  text-align: center;
+  background-color: #ffff;
+  padding: 50px;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.landing-page h1 {
+  font-size: 2.5rem;
+  color: #00A2FF;
+  margin-bottom: 20px;
+}
+
+.landing-page p {
+  font-size: 1.25rem;
+  margin-bottom: 30px;
+}
+
+.start-btn {
+  padding: 15px 30px;
+  font-size: 1rem;
+  font-weight: bold;
+  font-family: "Rockwell";
+  background-color: #02155a;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.start-btn:hover {
+  background-color: #02155a;
+  transform: translateY(-3px);
+}
+
+.start-btn:active {
+  transform: translateY(0);
+}
