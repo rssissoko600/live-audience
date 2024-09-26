@@ -88,19 +88,19 @@ const onSceneReady = async (scene, props) => {
 
         clone0_left.scaling = scalingStart;
         clone0_left.position = positionStart.add(positionAdd_left).subtract(leftPosOffset);
-        clone0_left.rotation = new Vector3(-1.5, 1.5, 0);
+        clone0_left.rotation = new Vector3(-1.5, 1.5, -Math.PI/6);
 
         clone1_left.scaling = scalingStart;
         clone1_left.position = positionStart.add(positionAdd_left).subtract(leftPosOffset);
-        clone1_left.rotation = new Vector3(-1.5, 1.5, 0);
+        clone1_left.rotation = new Vector3(-1.5, 1.5, -Math.PI/6);
 
         clone0_right.scaling = scalingStart;
         clone0_right.position = positionStart.add(positionAdd_right).subtract(rightPosOffset);
-        clone0_right.rotation = new Vector3(-1.5, 0, 0);
+        clone0_right.rotation = new Vector3(-1.5, 1.5, Math.PI/6);
 
         clone1_right.scaling = scalingStart;
         clone1_right.position = positionStart.add(positionAdd_right).subtract(rightPosOffset);
-        clone1_right.rotation = new Vector3(-1.5, 0, 0);
+        clone1_right.rotation = new Vector3(-1.5, 1.5, Math.PI/6);
 
         // Bind the clone to the shared skeleton
         clone0_center.skeleton = skeleton;
